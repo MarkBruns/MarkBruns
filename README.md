@@ -82,7 +82,7 @@ Moving beyond rigid org charts to dynamic talent graphs reveals superior economi
 
 The HROS.dev training initiative is about developing syllabi for intensive 10-week training programs offered at no cost to participants, designed to develop the next generation of AI-enabled HARSH robotics thinkers/technical leaders. Successful graduates would receive competitive compensation packages, including potential employment opportunities as HARSH robotics engineers with decent annual salaries, at first, but mostly it's about anticipated by-product outcomes, which might include cohort SMART goals that look something like: A) Development of at least 10 venture-backed startups within 18 months; B) Generation of more than 30 patentable technologies; C) Fundamental transformation of at least one conventional agricultural process; D) Establishment of a talent development ecosystem that rivals Silicon Valley for rural innovation; E) Courseware in Adaptability Engineering In Swarm Robotics.
 
-# Some of my recent curiosities ... 
+# Some of my recent, still relevant curiosities ... 
 
 ## 1. Transformative Discipleship Technology
 
