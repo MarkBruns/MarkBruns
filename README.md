@@ -1,28 +1,38 @@
 # My main interests right now
 
-## 1. UNPLUGistan
+## 1. Git Your GYG Discipline
 
-**The longer-term distant vision of UNPLUGistan is freedom from oppressive Computistan forever.** AI is a tool that can put most people out of work, **HOPEFULLY** ... because there are infinitely more things to focus on in the Universe than the shitjobs we have to do now. How can we achieve the promise of RELIABLE AI that takes over much of the tedium of spending time in software and SaaS apps, so that humans can move on to more important, bigger things. Practically, or most immediately this starts with a highly accelerated lifetime testing (HALT) experimental project which aims at eventually unleashing ephemeral AI agents in self-destructing Kubernetes pods that execute silently then vanish—no browsers, no apps, no maintenance. Highly reliable, capable, mature UNPLUGistan would start off being powered by Talos Linux, k3s, Firecracker, and ROS2, the stack scales down to something no waste, no vulnerability, healthy immune systems running at something approaching true zero cost. Your private Git repo becomes the sole source of personal truth so technology disappears and real life takes center stage.
+### **Live** meditatively: **Optimize** 86,400 second in each day with intentional **discipline**
 
-## 2. HROS.dev HARSH (Heterogenous, Autonomous, Remote, Swarming, Hostile) Robotic Operating System Development. 
+### **Escape** any wage-slave mindset: Side-hustle, **Freelance**, **microwork**, **scale** to startups
+
+### **Disrupt** affluence: **Minimize** consumption, **maximize** sharing, **opensource** everything
+
+### **Ditch** nostalgia and backwards thinkers: Lead by **listening**, become profoundly **antifragile**
+
+### **Master** critical systems: **Immune response**, **food**, **utilities**, **financial** infrastructure
+
+### **Write** daily: **Question** assumptions, **create** thought-provoking **future** content
+
+### **Train** martial arts hourly: Drill **flexibility**, **escapes**, flanking, shrewd **toughness**
+
+### **Dogfood** your automation: **Simplify** workflows to be able to **monetize** your toolchain
+
+### **Stop** begging, start helping: Make **skills** discoverable via **optimized** connections
+
+### **Delete** Netflix: **Walk**, **ponder**, **program** the mind with AI-assisted speedreading
+
+### **Ideate** constantly: **Brainstorm** from scrolling, **categorize** A-B-C-D, manage bins
+
+### **Strategize** skill economies: Skip org charts, construct and **analyze** talent graphs
+
+## 2. UNPLUGistan ... using OpenClaw to effect more robust software reliability engineering methodologies
+
+***The much LONGER-term, far in the distanc vision of UNPLUGistan is freedom from oppressive Computistan forever.*** AI is a tool that can put most people out of work, **HOPEFULLY** ... because there are infinitely more things to focus on in the Universe than the shitjobs we have to do now. How can we achieve the promise of RELIABLE AI that takes over much of the tedium of spending time in software and SaaS apps, so that humans can move on to more important, bigger things. Practically, or most immediately this starts with a highly accelerated lifetime testing (HALT) experimental project which aims at eventually unleashing ephemeral AI agents in self-destructing Kubernetes pods that execute silently then vanish—no browsers, no apps, no maintenance. Highly reliable, capable, mature UNPLUGistan would start off being powered by Talos Linux, k3s, Firecracker, and ROS2, the stack scales down to something no waste, no vulnerability, healthy immune systems running at something approaching true zero cost. Your private Git repo becomes the sole source of personal truth so technology disappears and real life takes center stage.
+
+## 3. HROS.dev HARSH (Heterogenous, Autonomous, Remote, Swarming, Hostile) Robotic Operating System Development. 
 
 The HROS.dev training initiative is about developing syllabi for intensive 10-week training programs offered at no cost to participants, designed to develop the next generation of AI-enabled HARSH robotics thinkers/technical leaders. Successful graduates would receive competitive compensation packages, including potential employment opportunities as HARSH robotics engineers with decent annual salaries, at first, but mostly it's about anticipated by-product outcomes, which might include cohort SMART goals that look something like: A) Development of at least 10 venture-backed startups within 18 months; B) Generation of more than 30 patentable technologies; C) Fundamental transformation of at least one conventional agricultural process; D) Establishment of a talent development ecosystem that rivals Silicon Valley for rural innovation; E) Courseware in Adaptability Engineering In Swarm Robotics.
-
-## 3. Git Your GYG Discipline
-
-- **Live** meditatively: **Optimize** 86,400 second in each day with intentional **discipline**
-- **Escape** any wage-slave mindset: Side-hustle, **Freelance**, **microwork**, **scale** to startups
-- **Disrupt** affluence: **Minimize** consumption, **maximize** sharing, **opensource** everything
-- **Ditch** nostalgia and backwards thinkers: Lead by **listening**, become profoundly **antifragile**
-- **Master** critical systems: **Immune response**, **food**, **utilities**, **financial** infrastructure
-- **Write** daily: **Question** assumptions, **create** thought-provoking **future** content
-- **Train** martial arts hourly: Drill **flexibility**, **escapes**, flanking, shrewd **toughness**
-- **Dogfood** your automation: **Simplify** workflows to be able to **monetize** your toolchain
-- **Stop** begging, start helping: Make **skills** discoverable via **optimized** connections
-- **Delete** Netflix: **Walk**, **ponder**, **program** the mind with AI-assisted speedreading
-- **Ideate** constantly: **Brainstorm** from scrolling, **categorize** A-B-C-D, manage bins
-- **Strategize** skill economies: Skip org charts, construct and **analyze** talent graphs
-
 
 # Some of my recent curiosities ... 
 
