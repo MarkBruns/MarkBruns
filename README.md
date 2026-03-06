@@ -1,4 +1,4 @@
-# My main interests right now
+# Current focus area right now
 
 *[Make AUDITING Great Again!](https://github.com/MarkBruns/Adopt-A-DOGE)*  
 
@@ -9,12 +9,6 @@
 **Example SMART Goal:** Practice 15 minutes of meditation every morning at 6 AM for 90 days straight, while journaling daily energy and focus levels to intentionally optimize all 86,400 seconds in each day.
 
 ***PERFECTING*** this disciplined practice creates space for mindful decision-making and heightened presence throughout your day. It transforms how you allocate time by building the mental foundation for intentional living.
-
-### Escape the Wage-Slave Mindset
-
-**Example SMART Goal:** Develop and launch one freelance or side-hustle income stream generating at least $750 per month within 100 days by dedicating 12 focused hours weekly to client acquisition and delivery.
-
-Breaking free from traditional employment requires building alternative income vehicles through consistent action. Scaling from microwork and freelancing into startups creates lasting financial independence and optionality.
 
 ### Escape Addiction
 
@@ -40,13 +34,19 @@ Mastery over these foundational systems creates true self-reliance regardless of
 
 Daily writing sharpens thinking and forces clarity on complex topics. Creating thought-provoking content builds both personal insight and a body of forward-looking work.
 
+### Escape the Wage-Slave Mindset
+
+**Example SMART Goal:** Develop and launch one freelance or side-hustle income stream generating at least $750 per month within 100 days by dedicating 12 focused hours weekly to client acquisition and delivery.
+
+Breaking free from traditional employment requires building alternative income vehicles through consistent action. Scaling from microwork and freelancing into startups creates lasting financial independence and optionality.
+
 ### Train Martial Arts Hourly
 
 **Example SMART Goal:** Train martial arts skills for 50 minutes, 6 days per week for the next 90 days, specifically focusing on flexibility drills, escape techniques, flanking strategies, and mental toughness development.
 
 Consistent martial training develops both physical capability and psychological resilience. Drilling these specific areas creates shrewd toughness that transfers to all areas of life.
 
-### Dogfood Your Automation
+### Dogfood Improved Workflows
 
 **Example SMART Goal:** Use your own automation tools daily to simplify three key personal workflows and successfully monetize at least one of them within the next 60 days.
 
@@ -58,11 +58,11 @@ Dogfooding your creations reveals real weaknesses and opportunities for improvem
 
 Shifting from seeking favors to becoming a known helper changes relationship dynamics dramatically. Making specialized skills visible attracts opportunities through genuine value exchange.
 
-### Delete Netflix
+### Delete Distractions
 
 **Example SMART Goal:** Eliminate all passive streaming entertainment and replace it with 40 minutes daily of walking combined with AI-assisted speedreading or learning for 75 consecutive days.
 
-Removing low-value entertainment frees mental bandwidth for higher-quality inputs. Walking, deep thinking, and accelerated learning reprogram the mind for creativity and insight.
+This starts with simple things like rationing screen time, curating online friends/associates but it extends to removing other kinds of distractions. Removing low-value entertainment frees mental bandwidth for higher-quality inputs. Walking, deep thinking, and accelerated learning reprogram the mind for creativity and insight.
 
 ### Ideate Constantly
 
