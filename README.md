@@ -42,9 +42,9 @@ Breaking free from traditional employment requires building alternative income v
 
 ### Train Martial Arts Hourly
 
-**Example SMART Goal:** Train martial arts skills for 50 minutes, 6 days per week for the next 90 days, specifically focusing on flexibility drills, escape techniques, flanking strategies, and mental toughness development.
+**Example SMART Goal:** Move. Incorporate 8-10 minutes of basic martial arts drills to complement every 50 minutes of focused work, 15hrs / day, 6 days per week for the next 90 days. Focus on simple flexibility drills, schrimping escape techniques, heavy bag striking, weighted yoga, discipine/toughness development.
 
-Consistent martial training develops both physical capability and psychological resilience. Drilling these specific areas creates shrewd toughness that transfers to all areas of life.
+8 min/hr * 15 hrs/day * 6 days/week = 12 hrs/week; it's NOT the 12 hrs; it's the CONSISTENCY throughout the week that develops both physical capability and psychological resilience. Drilling these specific areas creates shrewd toughness that transfers to all areas of life.
 
 ### Dogfood Improved Workflows
 
