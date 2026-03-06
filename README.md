@@ -76,7 +76,7 @@ Breaking free from traditional employment requires building alternative income v
 
 True escape of addiction to crutches or disruption of affluence comes from embracing minimalism paired with radical generosity. Open-sourcing knowledge and maximizing sharing multiplies impact while reducing personal material dependency.
 
-## 2. UNPLUGistan ... using agentic RAG to effect more robust software reliability engineering methodologies
+## 2. UNPLUGistan
 
 ### Deploy Ephemerally
 
@@ -114,7 +114,7 @@ Vigilant observation establishes digital immune systems that self-diagnose and h
 
 Minimal footprints eliminate waste, attack surfaces, and costs. This discipline scales toward true zero-cost, self-destructing compute that disappears when idle.
 
-### Anchor Git Identity
+### Anchor GitIdentity
 
 **Example SMART Goal:** Establish a private hardened DVCS as the sole identity and configuration source for one persona and all agents, with automated pulls and validations 5 times weekly for 75 days.
 
@@ -138,7 +138,7 @@ Autonomous healing mimics living systems for software resilience. Agents recover
 
 Clean vanishing prevents any lingering security or resource issues. This practice realizes the UNPLUGistan dream of technology that appears precisely when useful and leaves no trace.
 
-## 3. HROS.dev HARSH (Heterogenous, Autonomous, Remote, Swarming, Hostile) Robotic Operating System Development.
+## 3. HROS.dev
 
 ### Swarm Autonomously
 
