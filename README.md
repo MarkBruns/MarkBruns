@@ -10,35 +10,17 @@
 
 ***PERFECTING*** this disciplined practice creates space for mindful decision-making and heightened presence throughout your day. It transforms how you allocate time by building the mental foundation for intentional living.
 
-### Escape Addiction
-
-**Example SMART Goal:** Disrupt attachment to affluence. Cut discretionary consumption spending by 35% over the next 75 days while publishing or sharing at least 8 open-source resources or tools during the same period.
-
-True escape of addiction to crutches or disruption of affluence comes from embracing minimalism paired with radical generosity. Open-sourcing knowledge and maximizing sharing multiplies impact while reducing personal material dependency.
-
-### Ditch Nostalgia and Backwards Thinkers
-
-**Example SMART Goal:** Lead 3 deep listening conversations or mentoring sessions each month for 6 months while adopting one new antifragile practice (such as voluntary discomfort training) weekly.
-
-Moving past nostalgia requires actively seeking forward momentum through better listening. This builds profound antifragility that turns volatility into personal advantage.
-
-### Master Critical Systems
-
-**Example SMART Goal:** Build working knowledge and basic redundancy in four critical systems—immune health, food production, home utilities, and personal finance—by completing targeted weekly projects over 120 days.
-
-Mastery over these foundational systems creates true self-reliance regardless of external conditions. Developing protocols for immunity, food, utilities, and finance ensures stability during uncertainty.
-
 ### Write Daily
 
-**Example SMART Goal:** Write a minimum of 400 words each day. A long-winded three paragraph stream of consciousness tweet has about 133 words; instead of three of those per day, aim for 10 300-char concise-ish Grok-ifyable tweets per day. Each tweet should questioning at least one assumption and bullet-point the future-oriented ideas for potential [deeper dive](https://notebooklm.google.com/).
+**Example SMART Goal:** Use X to write a minimum of 400 words each day. A long-winded three paragraph stream of consciousness tweet has about 133 words; instead of three of those per day, aim for 10 300-char concise-ish Grok-ifyable tweets per day. Each tweet should questioning at least one assumption and bullet-point the future-oriented ideas for potential [deeper dive](https://notebooklm.google.com/).
 
 Daily writing sharpens thinking and forces clarity on complex topics. Creating thought-provoking content builds both personal insight and a body of forward-looking work.
 
-### Escape the Wage-Slave Mindset
+### Ditch Backwardists
 
-**Example SMART Goal:** Develop and launch one freelance or side-hustle income stream generating at least $750 per month within 100 days by dedicating 12 focused hours weekly to client acquisition and delivery.
+**Example SMART Goal:** Lead 3 deep listening conversations or mentoring sessions each month for 6 months while adopting one new antifragile practice (such as voluntary discomfort training) weekly.
 
-Breaking free from traditional employment requires building alternative income vehicles through consistent action. Scaling from microwork and freelancing into startups creates lasting financial independence and optionality.
+Do not value being recognizable to people who knew you 10, 25, 50 years ago. Moving past nostalgia requires actively seeking forward momentum through better listening. This builds profound antifragility that turns volatility into personal advantage.
 
 ### Train Martial Arts Hourly
 
@@ -64,17 +46,35 @@ Shifting from seeking favors to becoming a known helper changes relationship dyn
 
 This starts with simple things like rationing screen time, curating online friends/associates but it extends to removing other kinds of distractions. Removing low-value entertainment frees mental bandwidth for higher-quality inputs. Walking, deep thinking, and accelerated learning reprogram the mind for creativity and insight.
 
+### Strategize Skill Economies
+
+**Example SMART Goal:** Construct and analyze talent graphs for your network covering at least 25 individuals or skills within 50 days, identifying 4 high-potential collaboration or leverage opportunities.
+
+Moving beyond rigid org charts to dynamic talent graphs reveals superior economic possibilities. Strategic analysis of skill relationships creates new value creation pathways.
+
 ### Ideate Constantly
 
 **Example SMART Goal:** Capture, categorize into an A-B-C-D system, and manage at least 7 new ideas per day from daily information inputs for the next 60 days with weekly bin reviews.
 
 Turning casual scrolling and inputs into structured ideation creates a powerful creative engine. Proper categorization and management prevents idea loss and enables future execution.
 
-### Strategize Skill Economies
+### Master Critical Systems
 
-**Example SMART Goal:** Construct and analyze talent graphs for your network covering at least 25 individuals or skills within 50 days, identifying 4 high-potential collaboration or leverage opportunities.
+**Example SMART Goal:** Build working knowledge and basic redundancy in four critical systems—immune health, food production, home utilities, and personal finance—by completing targeted weekly projects over 120 days.
 
-Moving beyond rigid org charts to dynamic talent graphs reveals superior economic possibilities. Strategic analysis of skill relationships creates new value creation pathways.
+Mastery over these foundational systems creates true self-reliance regardless of external conditions. Developing protocols for immunity, food, utilities, and finance ensures stability during uncertainty.
+
+### Escape the Wage-Slave Mindset
+
+**Example SMART Goal:** Develop and launch one freelance or side-hustle income stream generating at least $750 per month within 100 days by dedicating 12 focused hours weekly to client acquisition and delivery.
+
+Breaking free from traditional employment requires building alternative income vehicles through consistent action. Scaling from microwork and freelancing into startups creates lasting financial independence and optionality.
+
+### Escape Addiction
+
+**Example SMART Goal:** Disrupt attachment to affluence. Cut discretionary consumption spending by 35% over the next 75 days while publishing or sharing at least 8 open-source resources or tools during the same period.
+
+True escape of addiction to crutches or disruption of affluence comes from embracing minimalism paired with radical generosity. Open-sourcing knowledge and maximizing sharing multiplies impact while reducing personal material dependency.
 
 ## 2. UNPLUGistan ... using agentic RAG to effect more robust software reliability engineering methodologies
 
