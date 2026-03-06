@@ -30,7 +30,7 @@ Mastery over these foundational systems creates true self-reliance regardless of
 
 ### Write Daily
 
-**Example SMART Goal:** Write a minimum of 400 words each day for 90 consecutive days, with each entry questioning at least one assumption and exploring future-oriented ideas for potential publication.
+**Example SMART Goal:** Write a minimum of 400 words each day. A long-winded three paragraph stream of consciousness tweet has about 133 words; instead of three of those per day, aim for 10 300-char concise-ish Grok-ifyable tweets per day. Each tweet should questioning at least one assumption and bullet-point the future-oriented ideas for potential [deeper dive](https://notebooklm.google.com/).
 
 Daily writing sharpens thinking and forces clarity on complex topics. Creating thought-provoking content builds both personal insight and a body of forward-looking work.
 
