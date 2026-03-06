@@ -16,11 +16,11 @@
 
 Breaking free from traditional employment requires building alternative income vehicles through consistent action. Scaling from microwork and freelancing into startups creates lasting financial independence and optionality.
 
-### Disrupt Affluence
+### Escape Addiction
 
-**Example SMART Goal:** Cut discretionary consumption spending by 35% over the next 75 days while publishing or sharing at least 8 open-source resources or tools during the same period.
+**Example SMART Goal:** Disrupt attachment to affluence. Cut discretionary consumption spending by 35% over the next 75 days while publishing or sharing at least 8 open-source resources or tools during the same period.
 
-True disruption of affluence comes from embracing minimalism paired with radical generosity. Open-sourcing knowledge and maximizing sharing multiplies impact while reducing personal material dependency.
+True escape of addiction to crutches or disruption of affluence comes from embracing minimalism paired with radical generosity. Open-sourcing knowledge and maximizing sharing multiplies impact while reducing personal material dependency.
 
 ### Ditch Nostalgia and Backwards Thinkers
 
