@@ -1,11 +1,8 @@
-# Immediate short-term tech-focus area right now ... *tech is just a way of training, it is NOT the goal*
+### *[Make CITIZENSHIP Great Again!](https://github.com/MarkBruns/Adopt-A-DOGE)*
 
-*[Make CITIZENSHIP Great Again!](https://github.com/MarkBruns/Adopt-A-DOGE)*
+# Faith, Service, Distributed Defense
 
-
-# Next Three Decades of Pilgrimage: Faith, Service, Distributed Defense
-
-This page presents the outline of a plan for my next three decades.
+This page presents the outline of a plan for pilgrimage covering my next three decades.
 
 I AM **MarkBruns**[@MarkBruns](https://x.com/MarkBruns)  
 
