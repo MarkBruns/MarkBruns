@@ -7,7 +7,7 @@
 
 **Mark Bruns**  
 Disciple • Engineer • *Mongolian Sumo Wrestling Fan* 
-@MarkBruns • [GitHub](https://github.com/MarkBruns)  
+@MarkBruns • [Current Projects](#current_projects)  
 
 **March 2026**  
 
@@ -140,7 +140,9 @@ I travel light and listen carefully. If our paths align in service to Christ and
 
 --- 
 
-# Things that I view as important and part of the foundation for my journey.
+# Current Projects
+
+Things that I view as important and part of the foundation for my journey.
 
 ## 1. Git Your GYG Discipline
 
