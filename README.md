@@ -3,21 +3,31 @@
 *[Make CITIZENSHIP Great Again!](https://github.com/MarkBruns/Adopt-A-DOGE)*
 
 
-# Plan for Next Three Decades of Pilgrimage: Faith, Service, Distributed Defense
+# Next Three Decades of Pilgrimage: Faith, Service, Distributed Defense
 
-**Mark Bruns**  
-Disciple • Engineer • *Mongolian Sumo Wrestling Fan* 
-[@MarkBruns](https://x.com/MarkBruns) • [*...some current projects*](#current-projects)  
+This page presents the outline of a plan for my next three decades.
 
-**March 2026**  
+I AM **MarkBruns**[@MarkBruns](https://x.com/MarkBruns)  
 
-Dear Friends and Collaborators,  
+* My objective is to be a better disciple of Jesus Christ
 
-At 66, I am preparing for one final, purposeful journey — not as a tourist, but as an old engineer seeking to imitate Jesus Christ through voluntary service. My primary objective is the care of my soul and the spiritual growth that comes from daily training, open-handed service, and the quiet distribution of strength to others. Wrestling martial arts, practical nonviolence, open-source Personal Knowledge Engineering, and minimalist defense technologies are simply the disciplined means by which an aging disciple can serve.  
+• I am a multidisciplinary engineer; my specialty is full ishikawa root cause investigation and causal inference 
+
+• I could spend all day outdoors being a grazier, under the open sky and *maybe watching Mongolian Sumo Wrestling* 
+
+• [*...there are some current projects that I am puttering with ...*](#current-projects)  
+
+**April 2026**  
+
+*My plan is to update this on a roughly monthly basis.*
+
+At this point, I am preparing for one final, purposeful journey — not as a tourist, but as an old engineer seeking to imitate Jesus Christ through voluntary service. My primary objective is the care of my soul and the spiritual growth that comes from daily training, open-handed service, and the quiet distribution of strength to others. Wrestling martial arts, practical nonviolence, open-source Personal Knowledge Engineering, and minimalist defense technologies are simply the disciplined means by which an aging disciple can serve.  
 
 This document outlines a high-level, chronological plan for the next three decades (launching late 2028). It is built on my public GitHub record of Personal Knowledge Management evolving into active Personal Knowledge Engineering (PKE), agentic tools for unmediated intelligence gathering, and a lifelong commitment to “Live voluntarily, imitate Christ — Train. Be able, ready to defend.”  
 
-I seek no fame, no central authority, and no media-filtered worldview. I travel light, train daily (mats replace chairs; heavy bags replace screens), and use portable, open-source agentic AI only as a silent co-pilot for planning and connecting with fellow open-sourcists. The destination is Mongolia; the purpose is Christ-like service at every step.  
+I am deliberately as anonymous as possible. I AVOID central authorities and anything that taxes or parasatizes citizens. I abhor media-filtered worldviews and generally distance myself from teevee watchers, tube addicts or spectators. I travel light, train daily, eschew conveniences and addictions to comfort that afflict most Americans (mats have replace chairs; muay thai heavy bags have replace screens in my home). I use, but don't particularly rely upon portable, open-source agentic AI only as a silent co-pilot for planning and connecting with fellow open-sourcists. 
+
+The destination is Mongolia; the purpose is Christ-like service at every step on a long pilgrimage.  
 
 I welcome conversation with anyone building practical, open-source communities in these same directions.  
 
