@@ -10,7 +10,7 @@ This page presents the outline of a plan for pilgrimage covering my next three d
 
 • I could spend all day outdoors being a grazier, under the open sky and *maybe watching Mongolian Sumo Wrestling* 
 
-• *There are current work-in-progress [BIG STONES](#current-projects) that I am [having conversations with](https://www.amazon.com/Listening-Stone-Life-Isamu-Noguchi) ... I've always had a 3125-625-125-25-5-1 funnel of current projects -- "sculpting" these big stones helps to inform my investments and attention.*  
+• There are current work-in-progress *[BIG STONES](#current-projects)* that I am *having conversations with*, in the [Noguchi sense](https://www.amazon.com/Listening-Stone-Life-Isamu-Noguchi) ... I've always had a 3125-625-125-25-5-1 funnel of current projects -- *"sculpting"* these big stones helps to inform my investments and attention.  
 
 I am ... [MarkBruns](https://www.linkedin.com/in/markbruns/)[**@MarkBruns**](https://x.com/MarkBruns)  
 
