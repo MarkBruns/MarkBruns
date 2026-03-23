@@ -4,15 +4,15 @@
 
 This page presents the outline of a plan for pilgrimage covering my next three decades.
 
-I AM **MarkBruns**[@MarkBruns](https://x.com/MarkBruns)  
-
-* My objective is to be a better disciple of Jesus Christ
+• My MAIN objective is to be a better disciple of Jesus Christ
 
 • I am a multidisciplinary engineer; my specialty is full ishikawa root cause investigation and causal inference 
 
 • I could spend all day outdoors being a grazier, under the open sky and *maybe watching Mongolian Sumo Wrestling* 
 
-• [*...there are some current projects that I am puttering with ...*](#current-projects)  
+• *There are [current work-in-progress BIG STONES](#current-projects) that I am [having conversations with](https://www.amazon.com/Listening-Stone-Life-Isamu-Noguchi) ... I've always had 5-25-125-625 big stones -- "sculpting" these helps to inform my investments and attention.*  
+
+I am the **MarkBruns**[@MarkBruns](https://x.com/MarkBruns)  
 
 **April 2026**  
 
