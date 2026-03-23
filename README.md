@@ -1,6 +1,146 @@
-# Current focus area right now
+# Immediate short-term tech-focus area right now ... *tech is just a way of training, it is NOT the goal*
 
-*[Make AUDITING Great Again!](https://github.com/MarkBruns/Adopt-A-DOGE)*  
+*[Make CITIZENSHIP Great Again!](https://github.com/MarkBruns/Adopt-A-DOGE)*
+
+
+# Plan for Next Three Decades of Pilgrimage: Faith, Service, Distributed Defense
+
+**Mark Bruns**  
+Disciple • Engineer • *Mongolian Sumo Wrestling Fan* 
+@MarkBruns • [GitHub](https://github.com/MarkBruns)  
+
+**March 2026**  
+
+Dear Friends and Collaborators,  
+
+At 66, I am preparing for one final, purposeful journey — not as a tourist, but as an old engineer seeking to imitate Jesus Christ through voluntary service. My primary objective is the care of my soul and the spiritual growth that comes from daily training, open-handed service, and the quiet distribution of strength to others. Wrestling martial arts, practical nonviolence, open-source Personal Knowledge Engineering, and minimalist defense technologies are simply the disciplined means by which an aging disciple can serve.  
+
+This document outlines a high-level, chronological plan for the next three decades (launching late 2028). It is built on my public GitHub record of Personal Knowledge Management evolving into active Personal Knowledge Engineering (PKE), agentic tools for unmediated intelligence gathering, and a lifelong commitment to “Live voluntarily, imitate Christ — Train. Be able, ready to defend.”  
+
+I seek no fame, no central authority, and no media-filtered worldview. I travel light, train daily (mats replace chairs; heavy bags replace screens), and use portable, open-source agentic AI only as a silent co-pilot for planning and connecting with fellow open-sourcists. The destination is Mongolia; the purpose is Christ-like service at every step.  
+
+I welcome conversation with anyone building practical, open-source communities in these same directions.  
+
+— Mark  
+
+---
+
+## Table of Contents
+- [Phase 0: Foundation & Ignition (2026–Late 2028)](#phase-0)  
+- [Phase 1: Baltic Beacon (Late 2028–2035)](#phase-1)  
+- [Phase 2: Black Sea Frontier (2035–2042)](#phase-2)  
+- [Phase 3: Central Asian Traverse (2042–2050)](#phase-3)  
+- [Phase 4: Mongolian Culmination & Legacy (2050–2058+)](#phase-4)  
+- [Overarching Principles](#principles)  
+- [How This Journey Builds](#progression)  
+- [Contact & Collaboration](#contact)  
+
+---
+
+## Phase 0: Foundation & Ignition (2026–Late 2028) {#phase-0}
+**Age 66–69**  
+
+Spiritual foundation first: deepen daily imitation of Christ through prayer, wrestling discipline, and voluntary simplicity. Refactor current life into travel-ready form — health protocols, capital stewardship, and Estonian e-residency secured.  
+
+Evolve existing GitHub repositories (AncientGuy/PKM → active PKE systems, Topic Delver agents, BRUNOSolutions workflows, HROSdev resilience) into a portable, offline-first agentic co-pilot. This tool gathers primary signals only — never news media — to identify open-source collaborators and investment opportunities in citizen-scale defense and knowledge tools.  
+
+Quiet virtual reconnaissance of Baltic, Ukrainian, Georgian, and Central Asian communities. Prototype minimalist, open-source modules that any citizen can use for unmediated knowledge engineering and practical readiness.  
+
+**Outcome**: Depart in late 2028 as a self-sustaining servant, carrying only what serves the soul and others.  
+[Back to TOC](#table-of-contents) | [See how this builds forward](#progression)
+
+---
+
+## Phase 1: Baltic Beacon (Late 2028–2035) {#phase-1}
+**Age 69–76**  
+
+Base in Estonia (Tallinn/Riga/Vilnius) using e-residency as digital passport. Serve local open-source communities by hosting mats-over-TVs wrestling sessions inside tech hubs and co-developing lightweight PKE tools that empower citizens to maintain their own intelligence without central or media filters.  
+
+Agentic co-pilot surfaces fellow practical developers working on resilient knowledge systems and citizen-defense modules. Invest modestly in the brightest emerging companies that mirror distributed strength (Anduril-style agility, Palantir-grade clarity, Ukrainian drone innovation).  
+
+Spiritual rhythm: daily wrestling as prayer-in-motion; mentor young engineers in voluntary service and minimalist living.  
+**Builds directly on Phase 0** by turning virtual scouting into lived relationships.  
+
+**Legacy output**: First network of open-source, agentified citizen-readiness toolkits rooted in faith and physical discipline.  
+[Back to TOC](#table-of-contents) | [See how this builds forward](#progression)
+
+---
+
+## Phase 2: Black Sea Frontier (2035–2042) {#phase-2}
+**Age 76–83**  
+
+Transition to post-war Ukraine and Georgia. Serve alongside local innovators who blend drone/FPV technology with agentic AI that assists — never replaces — human operators. Co-create open-source “operator PKE” toolkits that fuse wrestling-based readiness tracking with practical defense systems.  
+
+Continue daily training and spiritual service: establish community dojos that replace sedentary culture with disciplined strength. Agentic layer identifies high-signal collaborators already building personal knowledge communities. Invest in the most promising local founders advancing distributed peace.  
+
+**Builds on Phase 1** by stress-testing Baltic-forged tools in real resilience environments, proving that empowered citizens need no corrupt central control.  
+[Back to TOC](#table-of-contents) | [See how this builds forward](#progression)
+
+---
+
+## Phase 3: Central Asian Traverse (2042–2050) {#phase-3}
+**Age 83–91**  
+
+Progressive eastward movement through former Soviet republics (Kazakhstan, Uzbekistan, Kyrgyzstan, etc.). Adapt and serve by exchanging wrestling knowledge with indigenous traditions while refactoring PKE and defense modules for nomadic, resource-scarce settings.  
+
+Agentic co-pilot runs fully offline, surfacing local open-sourcists who value edge-computing and personal knowledge sovereignty. Seed micro-investments and open-source contributions that empower citizens rather than states.  
+
+Spiritual focus remains primary: imitate Christ through humble service, daily mat training, and the quiet witness of voluntary simplicity.  
+**Builds on Phase 2** by carrying proven Black Sea patterns deeper into the steppes, expanding the living network of faith-rooted, distributed strength.  
+[Back to TOC](#table-of-contents) | [See how this builds forward](#progression)
+
+---
+
+## Phase 4: Mongolian Culmination & Legacy (2050–2058+) {#phase-4}
+**Age 91–94+**  
+
+Arrival in Mongolia — the deliberate terminus. Immerse in Bökh (traditional Mongolian wrestling) and sumo as the ultimate expression of nomadic discipline and voluntary order. Serve the final community by establishing mobile rangeland academies that fuse lifelong wrestling practice with the complete open-source PKE and defense legacy.  
+
+Release the entire 30-year body of work — training protocols, agentic blueprints, investment theses, spiritual reflections — under a minimalist, voluntary license. Mentor the next generation of wrestlers, engineers, and disciples.  
+
+Spiritual closure: a life that has trained, served, and imitated Christ from the Baltic shores to the Mongolian steppes.  
+**Builds on all prior phases** as the living capstone: the full journey becomes the proof that one old engineer, walking voluntarily, can help distribute strength and peace.  
+[Back to TOC](#table-of-contents) | [See how this builds forward](#progression)
+
+---
+
+## Overarching Principles {#principles}
+- **Primary Objective**: Care of the soul through imitation of Jesus Christ — service, simplicity, and daily discipline.  
+- **Agentic AI**: Personal, open-source co-pilot only — gathers primary data, plans routes, and connects with fellow open-sourcists. Never for expertise or media consumption.  
+- **Wrestling Lifestyle**: Mats and heavy bags everywhere; physical readiness as spiritual practice.  
+- **Defense & Peace**: Practical nonviolence through citizen empowerment, open-source technology, and minimalist governance.  
+- **Financial Model**: Self-sustaining via practical inventions and equity in the brightest citizen-focused companies.  
+- **Ethos**: Live voluntarily. Refactor, simplify, open-source. Trust only primary signals and direct human relationships.  
+
+---
+
+## How This Journey Builds {#progression}
+Each phase is deliberately cumulative:  
+- [Phase 0](#phase-0) forges the spiritual and technical foundation.  
+- [Phase 1](#phase-1) tests and shares it in high-trust Baltic environments.  
+- [Phase 2](#phase-2) proves it under real-world stress in Ukraine/Georgia.  
+- [Phase 3](#phase-3) adapts and expands it across the steppes.  
+- [Phase 4](#phase-4) releases the full legacy in Mongolia.  
+
+The arc is one continuous pilgrimage: soul first, service always, strength distributed.  
+
+---
+
+## Contact & Collaboration {#contact}
+Open to conversation with anyone building practical open-source Personal Knowledge Engineering, wrestling-as-lifestyle communities, or citizen-scale defense tools.  
+
+- GitHub: https://github.com/MarkBruns  
+- X: @MarkBruns  
+- Email: (possibly available upon request; depends upon me being able to discern intent)  
+
+I travel light and listen carefully. If our paths align in service to Christ and the empowerment of free people, let us meet — preferably on the mat.  
+
+*“Train. Be able. Live voluntarily.”*  
+— Mark Bruns  
+
+--- 
+
+# Things that I view as important and part of the foundation for my journey.
 
 ## 1. Git Your GYG Discipline
 
