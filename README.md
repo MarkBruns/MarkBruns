@@ -2,21 +2,17 @@
 
 # Faith, Service, Distributed Defense
 
-This page presents the outline of a plan for pilgrimage covering my next three decades.
-
-• My MAIN objective is to be a better disciple of Jesus Christ
-
-• I am a multidisciplinary engineer; my specialty is full ishikawa root cause investigation and causal inference 
-
-• I could spend all day outdoors being a grazier, under the open sky and *maybe watching Mongolian Sumo Wrestling* 
-
-• There are current work-in-progress *[BIG STONES](#current-projects)* that I am *having conversations with*, in the [Noguchi sense](https://www.amazon.com/Listening-Stone-Life-Isamu-Noguchi) ... I've always had a 3125-625-125-25-5-1 funnel of current projects -- *"sculpting"* these big stones helps to inform my investments and attention.  
-
-I am ... [MarkBruns](https://www.linkedin.com/in/markbruns/)[**@MarkBruns**](https://x.com/MarkBruns)  
-
 **April 2026**  
 
-*My plan is to update this on a roughly monthly basis.*
+*My plan is to update this page on a roughly monthly basis.* It presents the outline of a plan for pilgrimage covering my next three decades.
+
+• My MAIN objective is to be a better disciple of Jesus Christ; the objective is NOT a pilgrimage for the sake of an adventure.
+
+• I am a multidisciplinary engineer; my specialty is full ishikawa root cause investigation and causal inference ... I enjoy understanding the structure of investigative design. I expect this to continue.
+
+• I could spend all day outdoors being a grazier, under the open sky  ... I really do not particularly care to ever be in the presence of humans. Humans are not necessarily so bad that I can't stand them [most of the time], but if I have to spend much time around humans, it would be some activity like *watching Mongolian Sumo Wrestling, from a spot close enough to feel the ground shake.*
+
+• Several work-in-progress *[BIG STONES](#current-projects)* are in *conversation* with me—in the [Noguchi sense](https://www.amazon.com/Listening-Stone-Life-Isamu-Noguchi). This practice of *sculpting* these big stones helps guide my investments and attention through a 3125-625-125-25-5-1 project funnel.
 
 At this point, I am preparing for one final, purposeful journey — not as a tourist, but as an old engineer seeking to imitate Jesus Christ through voluntary service. My primary objective is the care of my soul and the spiritual growth that comes from daily training, open-handed service, and the quiet distribution of strength to others. Wrestling martial arts, practical nonviolence, open-source Personal Knowledge Engineering, and minimalist defense technologies are simply the disciplined means by which an aging disciple can serve.  
 
@@ -28,7 +24,8 @@ The destination is Mongolia; the purpose is Christ-like service at every step on
 
 I welcome conversation with anyone building practical, open-source communities in these same directions.  
 
-— Mark  
+I am ... [MarkBruns](https://www.linkedin.com/in/markbruns/)[**@MarkBruns**](https://x.com/MarkBruns)  
+
 
 ---
 
