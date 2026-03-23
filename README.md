@@ -12,7 +12,7 @@ This page presents the outline of a plan for pilgrimage covering my next three d
 
 • *There are [current work-in-progress BIG STONES](#current-projects) that I am [having conversations with](https://www.amazon.com/Listening-Stone-Life-Isamu-Noguchi) ... I've always had 5-25-125-625 big stones -- "sculpting" these helps to inform my investments and attention.*  
 
-I am the **MarkBruns**[@MarkBruns](https://x.com/MarkBruns)  
+I am the [MarkBruns](https://www.linkedin.com/in/markbruns/)[**@MarkBruns**](https://x.com/MarkBruns)  
 
 **April 2026**  
 
