@@ -10,7 +10,7 @@
 
 • I am a multidisciplinary engineer; my specialty is full ishikawa root cause investigation and causal inference ... I enjoy understanding the structure of investigative design. I expect this to continue.
 
-• I could spend all day outdoors being a grazier, under the open sky  ... I really do not particularly care to ever be in the presence of humans. Humans are not necessarily so bad that I can't stand them [most of the time], but if I have to spend much time around humans, it would be some activity like *watching Mongolian Sumo Wrestling, from a spot close enough to feel the ground shake.*
+• Given the choice, I could happily spend all day outdoors as a livestock grazier and soil quality builder rather than in the presence of others. Though human company is tolerable in moderation, I vastly prefer solitude—except when *watching Mongolian Sumo Wrestling from close enough to feel the ground shake*.
 
 • Several work-in-progress *[BIG STONES](#current-projects)* are in *conversation* with me—in the [Noguchi sense](https://www.amazon.com/Listening-Stone-Life-Isamu-Noguchi). This practice of *sculpting* these big stones helps guide my investments and attention through a 3125-625-125-25-5-1 project funnel.
 
