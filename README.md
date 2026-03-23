@@ -7,7 +7,7 @@
 
 **Mark Bruns**  
 Disciple • Engineer • *Mongolian Sumo Wrestling Fan* 
-@MarkBruns • [Current Projects](#current_projects)  
+@MarkBruns • [*...some current projects*](#current-projects)  
 
 **March 2026**  
 
