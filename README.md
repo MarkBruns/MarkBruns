@@ -1013,7 +1013,7 @@ The greatest expression of CREATIVE love is the ability to trust completely in t
 
 # Faith, Service, Distributed Defense ... Pilgrimage and Speculation On My Remaining Decades
 
-*The goal of this exercise is to present a forward-looking outline of a plan for pilgrimage covering my next three decades ... I might not actually do this pilgrimage ... at this point, it's only at the very rough, far too wordy ideation phase.*
+*The goal of this exercise is to present a forward-looking outline of a plan for pilgrimage covering my next three or four or five decades ... I might not actually DO this pilgrimage; it's a matter of what God wills ... at this point, this speculative fantastical planning is only at the very rough, far-too-wordy ideation phase.*
 
 • My MAIN objective is to be a better disciple of Jesus Christ; the objective is NOT a pilgrimage for the sake of an adventure.
 
