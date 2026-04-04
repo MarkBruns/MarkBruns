@@ -1,6 +1,6 @@
 ### *[Make CITIZENSHIP Great Again!](https://github.com/MarkBruns/Adopt-A-DOGE)* 
 
-***The best way to catch up is my CURRENT thinking captured in [the daily journal](https://markbruns.github.io/Journal.html) ... OR my [microblogging on X](https://x.com/MarkBruns)*** 
+***The best way to catch up is my CURRENT thinking captured in [the daily journal](https://markbruns.github.io/Journal.html) ... OR my [microblogging on X](https://x.com/MarkBruns) ... OR my [Gist of Gists](https://gist.github.com/MarkBruns/4b3290aaff421f167b8e47ee59c7b25b) *** 
 
 *My plan is to update this page on a roughly monthly basis ... this plan currently NEEDS refactoring in order to be ready for April.*
 
