@@ -1,6 +1,8 @@
 ### *[Make CITIZENSHIP Great Again!](https://github.com/MarkBruns/Adopt-A-DOGE)* 
 
-***The best way to catch up is my CURRENT thinking captured in [the daily journal](https://markbruns.github.io/Journal.html) ... OR my [microblogging on X](https://x.com/MarkBruns) ... OR my [Gist of Gists](https://gist.github.com/MarkBruns/4b3290aaff421f167b8e47ee59c7b25b) *** 
+***The best way to catch up is my CURRENT thinking captured in [the daily journal](https://markbruns.github.io/Journal.html) ... OR my [microblogging on X](https://x.com/MarkBruns) ... OR my [Gist of Gists](https://gist.github.com/MarkBruns/4b3290aaff421f167b8e47ee59c7b25b) ***  
+
+**I do NOT trust GitHub to be reliable or available** ... GitHub is just a DVCS host, no more ... I do not TRUST GitHub **stars* or **forks** because Microsoft has deliberately allowed, maybe even encourages these numbers to be entire fraudulent ... *I use GitHub, BECAUSE I* ***want*** *everything that I have on GitHub to be copied or stolen.*
 
 *My plan is to update this page on a roughly monthly basis ... this plan currently NEEDS refactoring in order to be ready for April.*
 
