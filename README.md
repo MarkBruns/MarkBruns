@@ -1,6 +1,6 @@
 **I do NOT trust GitHub to be reliable or available** ... GitHub is just a DVCS host, it's not anything more than that ... as a social coding hub, GitHub is akin to Facebook as social media hub that caters to a *well behind the curve* audience that values familiarity.
 
-NOBODY should actually TRUST GitHub **stars** or **forks** because Microsoft has deliberately allowed, maybe even encourages these numbers to be entire fraudulent ... *I use GitHub, BECAUSE I* ***want*** *everything that I have on GitHub to be copied or stolen.*
+NOBODY should actually TRUST GitHub's **Star** or **Fork** data because Microsoft has deliberately allowed, maybe even encouraged these numbers to be entire fraudulent, driven by bots or fake accounts ... *I use GitHub, BECAUSE I* ***want*** *everything that I have on GitHub to be copied or stolen.*
 
 ---
 
