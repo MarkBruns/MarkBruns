@@ -1,7 +1,13 @@
 
-[Level up your READINESS ... listen to the MelonCave podcast](https://suno.com/playlist/91d0a005-c035-4f4e-8c8a-990844c0e503)
+[Level up your READINESS ... listen to the MelonCave podcast to program yourself to be more hard-headed and less of soft-brained bitch-ass nobody(https://suno.com/playlist/91d0a005-c035-4f4e-8c8a-990844c0e503)
 
-**I value RELIABILITY over almost everything else**, especially over features or cleverness... that means that ***I do NOT trust GitHub to be reliable or available*** -- anything that has ZERO nines availability, has DECIDED to be unavailable and has DECIDED to make excuses for deliberately offering an arbitrarily available "service" ... GitHub is just a DVCS host, it's not anything more than that ... as a social coding hub, GitHub is akin to Facebook as social media hub that caters to a *well behind the curve* audience that values familiarity.
+**I value RELIABILITY over almost everything else in anything that humans do**, especially over features or cleverness. 
+
+Reliability is the only reason to pay for anything.
+
+There are lots of interesting, shiny new things,, but ideas are cheap there's at least eight billion people who are full of ideas ... I don't really value creativity or design all that highly, unless the design severely minimizes the bullshit that can go wrong.
+
+This means that ***I do NOT trust GitHub to be reliable or available*** -- anything that has ZERO nines availability, has DECIDED to be unavailable and has DECIDED to make excuses for deliberately offering an arbitrarily available "service" ... GitHub is just a DVCS host, it's not anything more than that ... as a social coding hub, GitHub is akin to Facebook as social media hub that caters to a *well behind the curve* audience that values familiarity.
 
 It's not just deliberately poor availability -- nobody should actually TRUST GitHub's **Star** or **Fork** data because Microsoft has deliberately allowed, maybe even encouraged these numbers to be entire fraudulent, driven by bots or fake accounts ... *I use GitHub, BECAUSE I* ***want*** *everything that I have on GitHub to be copied or stolen.*
 
