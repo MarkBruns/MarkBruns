@@ -1,4 +1,7 @@
-**I do NOT trust GitHub to be reliable or available** -- anything that has ZERO nines availability, has DECIDED to be unavailable and has DECIDED to make excuses for deliberately offering an arbitrarily available "service" ... GitHub is just a DVCS host, it's not anything more than that ... as a social coding hub, GitHub is akin to Facebook as social media hub that caters to a *well behind the curve* audience that values familiarity.
+
+[Level up your READINESS ... listen to the MelonCave podcast](https://suno.com/playlist/91d0a005-c035-4f4e-8c8a-990844c0e503)
+
+**I value RELIABILITY** ... that means that ***I do NOT trust GitHub to be reliable or available*** -- anything that has ZERO nines availability, has DECIDED to be unavailable and has DECIDED to make excuses for deliberately offering an arbitrarily available "service" ... GitHub is just a DVCS host, it's not anything more than that ... as a social coding hub, GitHub is akin to Facebook as social media hub that caters to a *well behind the curve* audience that values familiarity.
 
 It's not just deliberately poor availability -- nobody should actually TRUST GitHub's **Star** or **Fork** data because Microsoft has deliberately allowed, maybe even encouraged these numbers to be entire fraudulent, driven by bots or fake accounts ... *I use GitHub, BECAUSE I* ***want*** *everything that I have on GitHub to be copied or stolen.*
 
