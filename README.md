@@ -1,5 +1,4 @@
-
-[Level up your READINESS ... listen to the MelonCave podcast to program yourself to be more hard-headed and less of soft-brained bitch-ass nobody(https://suno.com/playlist/91d0a005-c035-4f4e-8c8a-990844c0e503)
+[Level up your READINESS ... listen to the MelonCave podcast to program yourself to be more hard-headed and less of soft-brained bitch-ass nobody](https://suno.com/playlist/91d0a005-c035-4f4e-8c8a-990844c0e503)
 
 **I value RELIABILITY over almost everything else in anything that humans do**, especially over features or cleverness. 
 
