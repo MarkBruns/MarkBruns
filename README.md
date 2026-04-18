@@ -19,7 +19,7 @@ My mission therefore is radical personal independence and more freedom from addi
 
 # **How Does A Disciple of Christ Behave As A Better Citizen?**
 
-*To examine this question and what it means in DETAILS of a practical life, I am developing [200 modules, Phase 0 thru Phase 4](https://github.com/MarkBruns/MarkBruns/blob/main/README.md#make-citizenship-great-again-1)*
+*To examine this question and what it means in DETAILS of a practical life, I am developing a list [100 Practical Applications of The Principles of Christian Citizenships] and a daily devotional training curriculum of [200 modules, Phase 0 thru Phase 4](https://github.com/MarkBruns/MarkBruns/blob/main/README.md#make-citizenship-great-again-1)*
 
 **Man is born for contention.** From the womb, the drive to strive pulses through our veins, a divine spark demanding outlet in sparring of body and mind. Without it, societies soften and decay. [Proverbs 27:17](https://www.bibleref.com/Proverbs/27/Proverbs-27-17.html) reminds us that iron sharpens iron; so too do men sharpen one another through honest clash.
 
@@ -64,8 +64,9 @@ In the end, human advancement demands we embrace sparring as essential. Through 
 10) **God Is Creative Love.** The most creative, eternally unfolding love **IS** God—the definition of the word "God" means **LOVE**. The most divine form of love: "***I AM*** becoming everything ***I AM***"—Yahweh—LOVE of an eternal, self-existent, and unchanging nature. Beyond the human experience of growth, spiritual transformation, and fulfilling potential lies alignment with God's creative being, manifesting God's eternal character through developing selves, experiencing God's sufficiency and promises. There are scriptural echoes in Exodus 3:14-15, Malachi 3:6, Jeremiah 32:27, and other places—including our own lives. God IS, ***by definition*** and NOT BY ANYONE'S BELIEF, the most original, most profoundly creative LOVE. Genesis 1:1 opens Scripture with this operational DEFINITION of exactly what the word "God" means. We must BEGIN our understanding of God by contemplating the PUREST, truest, most eternal LOVE of eternal CREATION—the reason we were ever allowed to exist. God **is** LOVE—not a sappy human *likey* form of love, but a *love supreme*, in the parlance of Coltrane's saxophone: something beyond human expression, yet reflected in the most beautiful things humans have ever done. The greatest expression of CREATIVE love is the ability to **trust** completely in the Lord's plan for one's life—especially when one cannot be certain what that plan is. The way to exercise pure, true, creative love is to constantly seek first the purest, truest, most creative love of our CREATIVE Lord. Trusting in the Lord with all one's heart, might, mind, and being—never leaning on the crutch of simple, easy, false truths or giving in to the egotism of one's own understanding—is the root of all spiritual freedom. In all one's ways acknowledging Him, and He will make straight one's path to CREATIVE, eternal, everlasting joy.
 
 ---
+# 100 Practical Applications of The Principles of Christian Citizenship
 
-What follows are 25 practical applications—ways to live out the principles articulated in the Preamble. Each represents a distinct pathway, a summarized practical purpose that flows from these foundational commitments.
+What follows are 100 practical applications—ways to live out the principles articulated in the Preamble. Each represents a distinct pathway, a summarized practical purpose that flows from these foundational commitments.
 
 ## 1. The Uniqueness Imperative
 
