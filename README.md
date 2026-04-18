@@ -19,7 +19,7 @@ My mission therefore is radical personal independence and more freedom from addi
 
 # **How Does A Disciple of Christ Behave As A Better Citizen?**
 
-### [200 modules, Phase 0 thru Phase 4](https://github.com/MarkBruns/MarkBruns/blob/main/README.md#make-citizenship-great-again-1)
+*To examine this question and what it means in DETAILS of a practical life, I am developing [200 modules, Phase 0 thru Phase 4](https://github.com/MarkBruns/MarkBruns/blob/main/README.md#make-citizenship-great-again-1)*
 
 **Man is born for contention.** From the womb, the drive to strive pulses through our veins, a divine spark demanding outlet in sparring of body and mind. Without it, societies soften and decay. [Proverbs 27:17](https://www.bibleref.com/Proverbs/27/Proverbs-27-17.html) reminds us that iron sharpens iron; so too do men sharpen one another through honest clash.
 
