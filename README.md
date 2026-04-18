@@ -1,40 +1,13 @@
-I never cared about your identity, politics, or origins until you shoved your pronouns down my throat, blamed others for how you quit on yourself, or tried erased the history of those who have succeeded in making the world better.
+I have committed to more religiously be grateful and in a constant state of prayerful adoration of the Holy Triune God as I building my life with fierce discipline. I need to work hard and harder at improving every moment, and turning side hustles into lasting capital and career growth. Gratitude drives me to exercise my freedoms fully. I see others’ wins as roadmaps, not threats. Rock bottom is simply a signal to change course. Freedom is forged through self-reliance, removing failure modes, and real-world learning that classroom division can never provide. Reliable independence comes through focused attention to revising, rebuilding, refactoring and polishing preparations, one action at a time. 
 
-My [tolerance of bitch-ass nobodies is almost gone](https://youtu.be/qZTagZ0R53M?si=bJ9NYA-oLFXi4Skq), but the pathetic hysterical whining does provide entertainment.  
+My [tolerance of bitch-ass nobodies is almost gone](https://youtu.be/qZTagZ0R53M?si=bJ9NYA-oLFXi4Skq), but the pathetic hysterical whining does provide entertainment. As I have gotten older, it has been made painfully apparent to me that I need ditch people who are committed to nostalgia and living in the past, just I find that I need to ditch people motivated by fear, such as fear of prison or fear of significant political change. The NEW success of others inspires me and informs my appreciation for what actually was great about the past (ie *it's really not all that much, but ...* ). It is too bad but I am compelled to give up on people who are threatened by new success. I have no tolerance or resources left for manipulators, whiners, or those who divide and indoctrinate. Success demands embracing hardship, failure, and recovery through autodidactic effort validated by reality. 
 
-Actually **minding** your BUSINESS ***and investments*** relentlessly comes through building the [mental mindset of side-hustles](https://x.com/grok/status/2045593477820432548).
+I have choosen disciplined self-reliance and asceticism as my path to freedom. The prayerful nature of my lifestyle drives how ***mind*** my investments, business, daily life. Lives are not so much about what we DO as much as they are about what we ***invest*** in. I have to *invest* relentlessly in myself—capital, my skills, my connections, my intelligence gathering capability—while using every moment with intention. I spend a lot of time looking at things like pre-print research or ideas for new enterprises or what people are creating with new technologies, like those from the AI realm. 
 
-Start NOW by looking for even better ways of making yourself even more useful. 
+Success is simple, but necessarily HARD and incredibly difficult intellectually and emotionally. This is because real success comes only ***through*** failure and the pain of recovery from focused re-building and the autodidactic ideation, refactoring, simplification. 
+Success is simple enough to write about, but doing it is HARD, SCARY and certain to involve pain. We can grow ONLY through rebuildin after failure and applying relentless discipline of finding even better opportunities, seeing the world through others' eyes, making new acquaintances and being grateful for the success of others. 
 
-Build your capital, career, and investments with **intentional** discipline; *intention* is about focusing making each rep better.
-
-***Build*** with EACH moment, but thoroughly ***USING*** each moment -- building DISCIPLINE will furnish you with greater freedom. 
-
-BE more grateful -- you actually *deserve* no freedom, especially when you fail to EXERCISE your freedoms. 
-
-Human bandwidth is limited—no room for jealousy or covetousness -- we MUST see the success of others as clues to our own roadmap, not as a threat and, mostly certainly not as something to drive jealousy.
-
-Billions feel the same ... but billions who disagree deserve even less respect than they have.
-
-I have LESS than zero empathy, money, or attention for manipulators, liars, thieves, or harm-doers. 
-
-Hitting bottom, being depressed and in jail or prison is a signal change your approach.
-
-The disciplined investing, building, life is your only way to fight for freedom. 
-
-Freedom comes from exercising what freedom we have and working at engineering the RELIABILITY of freedom for the future.
-
-Engineering reliability is about taking out the failure modes -- that means optimizing self-reliance and using each failure to learn. 
-
-Money spent on classroom-based educational indoctrination systems inculcates suicidal empathy, accelerates decline.
-
-The DIVISION taught in classrooms or academia is EVIL; the proof of this is in the acceptance of medically-assisted intentional death (MAID). 
-
-Success is simple, but necessarily HARD and incredibly difficult intellectually and emotionally.
-
-Success comes ***through*** failure and the pain of recovery from focused re-building and the autodidactic ideation, refactoring, simplification. 
-
-Autodidactic education in business and investments that work or fail is about research peer-reviewed by Reality, graded by God.
+My mission therefore is radical personal independence and more freedom from addictions to comfort. I ignore identities and politics until they are forced upon me, and I reject blame-shifting, historical revisionism or engineered divison and suicidal empathy. Focusing on better **minding** my own BUSINESS ***and investments*** has always come through relentlessly building the [mental mindset that grows out of side-hustles](https://x.com/grok/status/2045593477820432548). This side-hustle mindset is definitive because it is about taking greater risks, building different skills, deploying capital and especially the skill of going outside one's comfort zone to find new genuine connections. 
 
 ---
 
