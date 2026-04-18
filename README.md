@@ -26,11 +26,15 @@ Freedom comes from exercising what freedom we have and working at engineering th
 
 Engineering reliability is about taking out the failure modes -- that means optimizing self-reliance and using each failure to learn. 
 
-Money spent on classroom-based educational indoctrination systems inculcating suicidal empathy is accelerating decline into the victimology of MAID states. 
+Money spent on classroom-based educational indoctrination systems inculcates suicidal empathy, accelerates decline.
 
-The DIVISION taught in classrooms or academia is EVIL. 
+The DIVISION taught in classrooms or academia is EVIL; the proof of this is in the acceptance of medically-assisted intentional death (MAID). 
 
-Success comes through focused building and the autodidactic ideation on building things that work. 
+Success is simple, but necessarily HARD and incredibly difficult intellectually and emotionally.
+
+Success comes ***through*** failure and the pain of recovery from focused re-building and the autodidactic ideation, refactoring, simplification. 
+
+Autodidactic education in business and investments that work or fail is about research peer-reviewed by Reality, graded by God.
 
 ---
 
