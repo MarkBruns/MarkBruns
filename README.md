@@ -1,14 +1,30 @@
-[Level up your READINESS ... listen to the MelonCave podcast to program yourself to be more hard-headed and less of soft-brained bitch-ass nobody](https://suno.com/playlist/91d0a005-c035-4f4e-8c8a-990844c0e503)
+I never cared about your identity, politics, or origins until you shoved your gay agendas down my throat, blamed others for your issues, or tried erased the history of those who have succeeded in making the world better.
 
-**I value RELIABILITY over almost everything else in anything that humans do**, especially over features or cleverness. 
+MIND YOUR BUSINESS relentlessly by building the [mental mindset of side-hustles](https://x.com/grok/status/2045593477820432548) -- start by looking for ways of making yourself more useful. 
 
-Reliability is the only reason to pay for anything.
+Build your capital, career, and investments with discipline ... that means that *the building* EACH day builds the DISCIPLINE which will give you freedom. 
 
-There are lots of interesting, shiny new things,, but ideas are cheap there's at least eight billion people who are full of ideas ... I don't really value creativity or design all that highly, unless the design severely minimizes the bullshit that can go wrong.
+Human bandwidth is limited—no room for jealousy or covetousness -- we MUST see the success of others as clues to our own roadmap, not as a threat and, mostly certainly not as something to drive jealousy.
 
-This means that ***I do NOT trust GitHub to be reliable or available*** -- anything that has ZERO nines availability, has DECIDED to be unavailable and has DECIDED to make excuses for deliberately offering an arbitrarily available "service" ... GitHub is just a DVCS host, it's not anything more than that ... as a social coding hub, GitHub is akin to Facebook as social media hub that caters to a *well behind the curve* audience that values familiarity.
+Tolerance has limits. My [patience for bitch-ass nobodies is gone](https://youtu.be/qZTagZ0R53M?si=bJ9NYA-oLFXi4Skq). 
 
-It's not just deliberately poor availability -- nobody should actually TRUST GitHub's **Star** or **Fork** data because Microsoft has deliberately allowed, maybe even encouraged these numbers to be entire fraudulent, driven by bots or fake accounts ... *I use GitHub, BECAUSE I* ***want*** *everything that I have on GitHub to be copied or stolen.*
+Billions feel the same ... but billions who disagree deserve even less respect than they have.
+
+I have LESS than zero empathy, money, or attention for manipulators, liars, thieves, or harm-doers. 
+
+Hitting bottom, being depressed and in jail or prison is a signal change your approach.
+
+The disciplined investing, building, life is your only way to fight for freedom. 
+
+Freedom comes from exercising what freedom we have and working at engineering the RELIABILITY of freedom for the future.
+
+Engineering reliability is about taking out the failure modes -- that means optimizing self-reliance and using each failure to learn. 
+
+The money spent on classrooms and educational indoctrination systems inculcating victimology and suicidal empathy is accelerating our decline. 
+
+The DIVISION taught in classrooms or academia is EVIL. 
+
+Success comes through focused building and the autodidactic ideation on building things that work. 
 
 ---
 
