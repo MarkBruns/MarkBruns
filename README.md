@@ -1,3 +1,5 @@
+# **Personal Manifesto**
+
 I have committed to more religiously be grateful and in a constant state of prayerful adoration of the Holy Triune God as I building my life with fierce discipline. I need to work hard and harder at improving every moment, and turning side hustles into lasting capital and career growth. Gratitude drives me to exercise my freedoms fully. I see others’ wins as roadmaps, not threats. Rock bottom is simply a signal to change course. Freedom is forged through self-reliance, removing failure modes, and real-world learning that classroom division can never provide. Reliable independence comes through focused attention to revising, rebuilding, refactoring and polishing preparations, one action at a time. 
 
 My [tolerance of bitch-ass nobodies is almost gone](https://youtu.be/qZTagZ0R53M?si=bJ9NYA-oLFXi4Skq), but the pathetic hysterical whining does provide entertainment. As I have gotten older, it has been made painfully apparent to me that I need ditch people who are committed to nostalgia and living in the past, just I find that I need to ditch people motivated by fear, such as fear of prison or fear of significant political change. The NEW success of others inspires me and informs my appreciation for what actually was great about the past (ie *it's really not all that much, but ...* ). It is too bad but I am compelled to give up on people who are threatened by new success. I have no tolerance or resources left for manipulators, whiners, or those who divide and indoctrinate. Success demands embracing hardship, failure, and recovery through autodidactic effort validated by reality. 
@@ -17,7 +19,7 @@ My mission therefore is radical personal independence and more freedom from addi
 
 *My plan is to update this page on a roughly monthly basis ... this plan currently NEEDS refactoring in order to be ready for April.*
 
-# **Manifesto for This Disciple of Christ**
+# **How Does A Disciple of Christ Behave As A Better Citizen?**
 
 **Man is born for contention.** From the womb, the drive to strive pulses through our veins, a divine spark demanding outlet in sparring of body and mind. Without it, societies soften and decay. [Proverbs 27:17](https://www.bibleref.com/Proverbs/27/Proverbs-27-17.html) reminds us that iron sharpens iron; so too do men sharpen one another through honest clash.
 
