@@ -11,15 +11,15 @@ Success is simple enough to write about, but doing it is HARD, SCARY and certain
 
 My mission therefore is radical personal independence and more freedom from addictions to comfort. I ignore identities and politics until they are forced upon me, and I reject blame-shifting, historical revisionism or engineered divison and suicidal empathy. Focusing on better **minding** my own BUSINESS ***and investments*** has always come through relentlessly building the [mental mindset that grows out of side-hustles](https://x.com/grok/status/2045593477820432548). This side-hustle mindset is definitive because it is about taking greater risks, building different skills, deploying capital and especially the skill of going outside one's comfort zone to find new genuine connections. 
 
----
-
-### *[Make CITIZENSHIP Great Again!](https://github.com/MarkBruns/Adopt-A-DOGE)* 
-
 ***The best way to catch up is my CURRENT thinking captured in [the daily journal](https://markbruns.github.io/Journal.html) ... OR my [microblogging on X](https://x.com/MarkBruns) ... OR my [Gist of Gists](https://gist.github.com/MarkBruns/4b3290aaff421f167b8e47ee59c7b25b)***  
 
 *My plan is to update this page on a roughly monthly basis ... this plan currently NEEDS refactoring in order to be ready for April.*
 
+--- 
+
 # **How Does A Disciple of Christ Behave As A Better Citizen?**
+
+### [200 modules, Phase 0 thru Phase 4](https://github.com/MarkBruns/MarkBruns/blob/main/README.md#make-citizenship-great-again-1)
 
 **Man is born for contention.** From the womb, the drive to strive pulses through our veins, a divine spark demanding outlet in sparring of body and mind. Without it, societies soften and decay. [Proverbs 27:17](https://www.bibleref.com/Proverbs/27/Proverbs-27-17.html) reminds us that iron sharpens iron; so too do men sharpen one another through honest clash.
 
@@ -1028,7 +1028,7 @@ The greatest expression of CREATIVE love is the ability to trust completely in t
 
 # **Make CITIZENSHIP Great Again!** 
 
-### Distributed Self-Defense in the Community
+### *[Eliminating Inefficiency In Goverment and Practicing Distributed Self-Defense in the Community](https://github.com/MarkBruns/Adopt-A-DOGE)*
 
 ## *200 Modules -- Forty Modules/Each Phase*
 
