@@ -1,3 +1,5 @@
+My [tolerance of bitch-ass nobodies is almost gone](https://youtu.be/qZTagZ0R53M?si=bJ9NYA-oLFXi4Skq), but the pathetic hysterical whining does provide entertainment.  
+
 I never cared about your identity, politics, or origins until you shoved your gay agendas down my throat, blamed others for your issues, or tried erased the history of those who have succeeded in making the world better.
 
 Actually **minding** your BUSINESS ***and investments*** relentlessly comes through building the [mental mindset of side-hustles](https://x.com/grok/status/2045593477820432548).
@@ -11,8 +13,6 @@ Build your capital, career, and investments with **intentional** discipline; *in
 BE more grateful -- you actually *deserve* no freedom, especially when you fail to EXERCISE your freedoms. 
 
 Human bandwidth is limited—no room for jealousy or covetousness -- we MUST see the success of others as clues to our own roadmap, not as a threat and, mostly certainly not as something to drive jealousy.
-
-Tolerance has limits. My [patience for bitch-ass nobodies is gone](https://youtu.be/qZTagZ0R53M?si=bJ9NYA-oLFXi4Skq). 
 
 Billions feel the same ... but billions who disagree deserve even less respect than they have.
 
