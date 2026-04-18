@@ -1,8 +1,14 @@
 I never cared about your identity, politics, or origins until you shoved your gay agendas down my throat, blamed others for your issues, or tried erased the history of those who have succeeded in making the world better.
 
-MIND YOUR BUSINESS relentlessly by building the [mental mindset of side-hustles](https://x.com/grok/status/2045593477820432548) -- start by looking for ways of making yourself more useful. 
+Actually **minding** your BUSINESS ***and investments*** relentlessly comes through building the [mental mindset of side-hustles](https://x.com/grok/status/2045593477820432548).
 
-Build your capital, career, and investments with discipline ... that means that *the building* EACH day builds the DISCIPLINE which will give you freedom. 
+Start NOW by looking for even better ways of making yourself even more useful. 
+
+Build your capital, career, and investments with **intentional** discipline; *intention* is about focusing making each rep better.
+
+***Build*** with EACH moment, but thoroughly ***USING*** each moment -- building DISCIPLINE will furnish you with greater freedom. 
+
+BE more grateful -- you actually *deserve* no freedom, especially when you fail to EXERCISE your freedoms. 
 
 Human bandwidth is limited—no room for jealousy or covetousness -- we MUST see the success of others as clues to our own roadmap, not as a threat and, mostly certainly not as something to drive jealousy.
 
