@@ -1026,145 +1026,659 @@ The greatest expression of CREATIVE love is the ability to trust completely in t
 > — [**1 Thessalonians 5:24**](https://www.bibleref.com/1-Thessalonians/5/1-Thessalonians-5-24.html)
 
 
-# Faith, Service, Distributed Defense ... Pilgrimage and Speculation On My Remaining Decades
+# **Make CITIZENSHIP Great Again!** 
 
-*The goal of this exercise is to present a forward-looking outline of a plan for pilgrimage covering my next three or four or five decades ... I might not actually DO this pilgrimage; it's a matter of what God wills ... at this point, this speculative fantastical planning is only at the very rough, far-too-wordy ideation phase.*
+### Distributed Self-Defense in the Community
 
-• My MAIN objective is to be a better disciple of Jesus Christ; the objective is NOT a pilgrimage for the sake of an adventure.
+## *200 Modules -- Forty Modules/Each Phase*
 
-• I am a multidisciplinary engineer; my specialty is full ishikawa root cause investigation and causal inference ... I enjoy understanding the structure of investigative design. I expect this to continue.
+**Phase 0 though Phase 4**
 
-• Given the choice, I could happily spend all day outdoors as a livestock grazier and soil quality builder rather than in the presence of others. Though human company is tolerable in moderation, I vastly prefer solitude—except when *watching Mongolian Sumo Wrestling from close enough to feel the ground shake*.
+[Phase 0: Spiritual Foundation and Ignition](#phase-0-foundation--ignition)
 
-• Several work-in-progress *[BIG STONES](#current-projects)* are in *conversation* with me—in the [Noguchi sense](https://github.com/MarkBruns/MarkBruns.github.io/blob/main/journal/2026-03-27.md). This practice of *sculpting* these big stones helps guide my investments and attention through a 3125-625-125-25-5-1 project funnel.
+[Phase 1: Personal Mastery through Solo Drills and Discipline](#phase-1-personal-mastery-through-solo-drills-and-discipline)
 
-At this point, I am preparing for one final, purposeful journey — not as a tourist, but as an old engineer seeking to imitate Jesus Christ through voluntary service. My primary objective is the care of my soul and the spiritual growth that comes from daily training, open-handed service, and the quiet distribution of strength to others. Wrestling martial arts, practical nonviolence, open-source Personal Knowledge Engineering, and minimalist defense technologies are simply the disciplined means by which an aging disciple can serve.  
+[Phase 2: Practical Testing and Validation with Real Conditions](#phase-2-practical-testing-and-validation-with-real-conditions)
 
-This document outlines a high-level, chronological plan for the next three decades (launching late 2028). It is built on my public GitHub record of Personal Knowledge Management evolving into active Personal Knowledge Engineering (PKE), agentic tools for unmediated intelligence gathering, and a lifelong commitment to “Live voluntarily, imitate Christ — Train. Be able, ready to defend.”  
+[Phase 3: Community Adaptation and Extension](#phase-3-community-adaptation-and-extension)
 
-I am deliberately as anonymous as possible. I AVOID central authorities and anything that taxes or parasatizes citizens. I abhor media-filtered worldviews and generally distance myself from teevee watchers, tube addicts or spectators. I travel light, train daily, eschew conveniences and addictions to comfort that afflict most Americans (mats have replace chairs; muay thai heavy bags have replace screens in my home). I use, but don't particularly rely upon portable, open-source agentic AI only as a silent co-pilot for planning and connecting with fellow open-sourcists. 
+[Phase 4: Regional Scaling and Intelligence Networks](#phase-4-regional-scaling-and-intelligence-networks)
 
-The destination is Mongolia; the purpose is Christ-like service at every step on a long pilgrimage.  
+[Contact \& Collaboration {#contact}](#contact--collaboration-contact)
 
-I welcome conversation with anyone building practical, open-source communities in these same directions.  
 
-I am ... [MarkBruns](https://www.linkedin.com/in/markbruns/)[**@MarkBruns**](https://x.com/MarkBruns)  
+## Phase 0: Foundation & Ignition
 
+**Module 0.1: Daily Adoration of the Holy Trinity**  
+Begin your day with gratitude jounaling as a contemplative prayer exercise centering on the Father, Son, and Holy Spirit as the ultimate source of strength and protection, establishing the spiritual core that undergirds all physical drills in Module 0.5 and community service in later phases.  
+
+**Module 0.2: Scripture Study on Biblical Warriors and Peace**  
+Meditate on passages like Psalm 144 and Ephesians 6, discerning spiritual warfare from physical self-defense, which prepares the mindset for practical awareness modules like 0.10 on health risks and branches into Phase 1 martial drills.  
+
+**Module 0.3: Personal Health Audit and Prayer**  
+Conduct a prayerful inventory of your current physical condition, diet, and fitness level, identifying risks from poor health or injury, linking to gardening Module 0.15 for better nutrition and prerequisite for fitness drills in Phase 1.  
+
+**Module 0.4: Solo Breathing and Centering Exercises**  
+Practice mindful breathing combined with short prayers of adoration to build mental resilience and body awareness, a foundation for all subsequent martial arts solo drills and stress management in threat awareness Module 0.12.  
+
+**Module 0.5: Basic Bodyweight Mobility Drills**  
+Perform daily solo mobility routines focusing on joints and core strength inspired by wrestling fundamentals, while reciting Scripture, building toward heavy bag work in Phase 1 and protecting personal health as per Module 0.3.  
+
+**Module 0.6: Introduction to Permaculture, Gardening, Edible Landscaping Concepts**  
+Time in the garden is for contemplative prayer. Study and plan a small garden or landscaping project with prayer for stewardship of God's creation, connecting spiritual growth to self-reliance and nutrition improvements referenced in health audits.  
+
+**Module 0.7: Prayer Walking in Neighborhood**  
+Engage in prayer walks observing community needs and potential risks without intrusion, fostering relationships and intelligence gathering that feeds into news sharing modules and community helping in Phase 3.  
+
+**Module 0.8: Financial Viability Self-Assessment**  
+Prayerfully review personal finances and professional skills, acknowledging threats from instability, which ties into professional development branches and enables better service to others later.  
+
+**Module 0.9: Disease and Injury Prevention Basics**  
+Learn fundamental hygiene, first aid, and preventive health measures through study and prayer, prerequisite for all defense activities and adjacent to diet/nutrition modules.  
+
+**Module 0.10: Basic Nutrition and Diet Realignment**  
+Without being too zealous or rule-based about this, begin adjusting diet toward more whole foods grown locally or getting more things from a personal garden (0.6), praying for discipline, addressing bad diet risks and supporting fitness for martial lifestyle.  
+
+**Module 0.11: Solo Shadow Boxing with Prayer**  
+Incorporate simple muay thai heavy bag speed drills, shadow boxing and different movement drills while meditating on peace and protection, a gentle entry to Christian martial arts that alludes to later advanced techniques in Phase 1.  
+
+**Module 0.12: Daily News Intake with Discernment**  
+Mostly this is about learning to AVOID any need for routine news intake. Review gists or headlines of local and global news through a prayerful, biblical lens to gather intelligence on threats, sharing insights selectively as per Module 0.20, building awareness without fear.  
+
+**Module 0.13: Journaling Spiritual Insights and Observations**  
+Maintain an Examen journal of daily spiritual reflections, health progress, and observed community conditions, serving as personal knowledge base and prerequisite for intelligence sharing.  
+
+**Module 0.14: Basic Stretching Routine with Worship**  
+Daily stretching paired with worship music or psalms, enhancing flexibility for future wrestling or self-defense while recentering on God.  
+
+**Module 0.15: Starting a Small Herb or Vegetable Garden**  
+It's easy to plant things, but the real value is in tending a simple garden plot as an act of faith and stewardship, directly improving diet (0.10) and providing meditative solo activity.  
+
+**Module 0.16: Listening to Sermons on Service and Humility**  
+Regularly blog or perform deep investigations into the teachings on imitating Christ in service, applying to how one approaches helping community members in their self-defense journeys later.  
+
+**Module 0.17: Posture and Balance Awareness Drills**  
+Solo exercises improving posture and balance and gait, essential for any physical defense and tied to overall health foundation.  
+
+**Module 0.18: Budgeting for Self-Reliance Tools**  
+Create a simple budget allocating for basic tools like gardening equipment or exercise mats, linking financial module to practical preparations.  
+
+**Module 0.19: Prayer for Community Protection**  
+Dedicated prayer sessions interceding for neighbors' safety and well-being, igniting the service ethos for relationship-building through help in private journeys.  
+
+**Module 0.20: Basic Intelligence Note-Taking on Local Events**  
+Note local incidents or trends prayerfully, preparing to share curated, helpful information with trusted contacts as the tree branches out.  
+
+**Module 0.21: Solo Core Strength Building**  
+Daily planks and core exercises integrated with breath prayers, foundational for martial arts and injury prevention.  
+
+**Module 0.22: Study on Nonviolence and Just Defense**  
+Explore Christian perspectives on peace and when force may be necessary, guiding all defense modules ethically.  
+
+**Module 0.23: Hydration and Sleep Habit Formation**  
+Establish routines for proper hydration and rest, critical for health/fitness and cognitive clarity in intelligence gathering.  
+
+**Module 0.24: Mapping Personal Property or Local Area**  
+Create simple maps of home or neighborhood for awareness, aiding in landscaping plans and basic defense considerations.  
+
+**Module 0.25: Memorization of Key Bible Verses on Strength**  
+Memorize verses like Philippians 4:13 or Isaiah 40:31, to recall during physical challenges in drills.  
+
+**Module 0.26: Introduction to Home Food Preservation**  
+Learn basic methods to preserve garden produce, enhancing self-reliance and financial viability.  
+
+**Module 0.27: Mindful Walking Meditation**  
+Walk while focusing on gratitude and adoration, combining exercise with spiritual practice.  
+
+**Module 0.28: Identifying Personal Weaknesses in Character**  
+Self-examination for sins or habits hindering growth, prerequisite for true discipleship in the lifestyle.  
+
+**Module 0.29: Basic First Aid Kit Assembly and Training**  
+Assemble and learn to use a basic kit, addressing injury risks directly.  
+
+**Module 0.30: Daily Gratitude Practice for God's Provision**  
+Cultivate thankfulness, reinforcing spiritual foundation amid awareness of threats.  
+
+**Module 0.31: Light Resistance Band Exercises**  
+Incorporate bands for strength building in solo setting, preparatory for more advanced Phase 1.  
+
+**Module 0.32: Community Resource Inventory**  
+List local churches, services, and potential allies prayerfully for future collaboration.  
+
+**Module 0.33: Vocal Prayer and Declaration Drills**  
+Practice speaking prayers aloud while moving, building confidence and integrating faith with action.  
+
+**Module 0.34: Soil Testing and Garden Prep**  
+Prepare soil for planting, hands-on stewardship linking to landscaping.  
+
+**Module 0.35: Study Christian Biographies of Servants**  
+Read about figures who combined faith and practical service, modeling the lifestyle.  
+
+**Module 0.36: Balance Board or Simple Proprioception Drills**  
+Improve balance for better physical capability and injury avoidance.  
+
+**Module 0.37: Weekly Fast and Prayer Day**  
+Incorporate fasting for spiritual discipline and health benefits.  
+
+**Module 0.38: Basic Hand Tool Proficiency**  
+Practice safe use of garden or home tools, building practical skills.  
+
+**Module 0.39: Reflection on Citizenship as Service**  
+Meditate on biblical call to be salt and light in community, tying to overall mission.  
+
+**Module 0.40: Commitment Prayer and Vision Casting**  
+End Phase 0 with dedicated prayer committing to the journey, previewing Phase 1 drills and the protective tree of modules for the community.  
 
 ---
 
-## Table of Contents
-- [Phase 0: Foundation & Ignition (2026–Late 2028)](#phase-0)  
-- [Phase 1: Baltic Beacon (Late 2028–2035)](#phase-1)  
-- [Phase 2: Black Sea Frontier (2035–2042)](#phase-2)  
-- [Phase 3: Central Asian Traverse (2042–2050)](#phase-3)  
-- [Phase 4: Mongolian Culmination & Legacy (2050–2058+)](#phase-4)  
-- [Overarching Principles](#principles)  
-- [How This Journey Builds](#progression)  
-- [Contact & Collaboration](#contact)  
+## Phase 1: Personal Mastery through Solo Drills and Discipline
+
+**Module 1.1: Advanced Lectio Divina on Martial Virtues**  
+Deepen Scripture meditation on Nehemiah’s wall-building and David’s preparation, building spiritual fortitude that prerequisites all Phase 1 physical drills and branches into ethical debate in Module 1.22.  
+
+**Module 1.2: Daily Heavy-Bag Striking Routines with Prayer**  
+Execute structured solo striking sessions on a heavy bag while reciting protection psalms, progressing from Phase 0 shadow work and supporting core strength for wrestling branches.  
+
+**Module 1.3: Expanded Garden Plot Development**  
+Scale the small garden from Module 0.15 into a full edible landscape bed, performing labor as worship to improve nutrition and self-reliance while enhancing physical conditioning.  
+
+**Module 1.4: Progressive Bodyweight Strength Circuits**  
+Perform escalating circuits of push-ups, squats, and burpees integrated with breath prayers, testing personal limits from Phase 0 mobility and preparing injury-resistant fitness for later phases.  
+
+**Module 1.5: Solo Grappling Drills on Mat**  
+Practice hip escapes, bridges, and guard retention on a wrestling mat as meditative movement, adjacent to striking routines and foundational for any future partner validation.  
+
+**Module 1.6: Nutrition Tracking and Meal Prep from Garden**  
+Log and prepare meals using home-grown produce, addressing bad-diet risks identified in Phase 0 audits and fueling energy for daily drills.  
+
+**Module 1.7: Situational Awareness Drills While Gardening**  
+While tending landscaping, practice 360-degree scanning and threat assessment, combining Phase 0 prayer walks with practical intelligence gathering.  
+
+**Module 1.8: Professional Development Micro-Habits**  
+Dedicate 20 minutes daily to skill-building (e.g., online course) tied to financial viability, enabling greater capacity to help others in Phase 3.  
+
+**Module 1.9: Injury Recovery and Mobility Maintenance**  
+Implement daily foam-rolling and targeted mobility from Phase 0 stretching, preventing setbacks and supporting consistent martial arts progression.  
+
+**Module 1.10: Prayerful Debate of Self-Defense Scenarios**  
+Mentally rehearse ethical responses to common threats (disease outbreaks, financial stress, physical confrontation), recording insights in journal for later sharing.  
+
+**Module 1.11: Expanded Intelligence Notebook System**  
+Organize notes from daily news review into categorized threat logs, building a personal knowledge base that feeds curated sharing in Module 1.32.  
+
+**Module 1.12: Endurance Running or Rucking with Scripture**  
+Incorporate weighted walks or runs while memorizing and reciting verses, merging cardiovascular fitness with spiritual recentering.  
+
+**Module 1.13: Basic Weapon Familiarization (Unloaded Dry-Fire)**  
+Safe solo handling and dry-fire practice of permitted tools with prayer for stewardship, building from awareness modules and always secondary to spiritual and physical foundations.  
+
+**Module 1.14: Home Food Storage and Rotation Drills**  
+Practice preserving and rotating garden produce and staples, directly countering financial and supply risks while reinforcing self-reliance.  
+
+**Module 1.15: Solo Wrestling Flow Drills**  
+Create continuous movement sequences on the mat, improving timing and flow as an extension of Phase 0 core work.  
+
+**Module 1.16: Weekly Health Metrics Testing**  
+Track weight, blood pressure, and energy levels prayerfully, experimenting with adjustments and documenting results for personal mastery.  
+
+**Module 1.17: Edible Perennial Planting Projects**  
+Add fruit trees or berry bushes to landscaping, performing the labor as exercise and long-term community asset planning.  
+
+**Module 1.18: Breath-Controlled Striking Power Development**  
+Focus on explosive yet controlled strikes synchronized with prayerful exhales, advancing Phase 0 basics toward functional capability.  
+
+**Module 1.19: Budget Review and Investment in Tools**  
+Reassess finances quarterly to fund mats, bags, or garden expansion, linking professional growth to practical preparedness.  
+
+**Module 1.20: Mental Rehearsal of De-Escalation**  
+Visualize and verbally practice Christ-like de-escalation phrases during solo drills, integrating nonviolence ethos with readiness.  
+
+**Module 1.21: Advanced Balance and Proprioception Circuits**  
+Use balance boards or uneven surfaces during movement drills, enhancing stability for real-world defense and injury prevention.  
+
+**Module 1.22: Internal Ethical Debate Journal**  
+Record reasoned reflections on when citizen defense aligns with faith, prerequisite for Phase 2 real-condition testing.  
+
+**Module 1.23: Sleep Optimization and Recovery Protocols**  
+Experiment with routines to maximize restorative sleep, supporting all physical and cognitive efforts.  
+
+**Module 1.24: Neighborhood Mapping Updates**  
+Revise personal area maps with new garden features or observed changes, sharpening intelligence capability.  
+
+**Module 1.25: Scripture Memorization for High-Stress Moments**  
+Commit additional verses on courage and wisdom to memory for instant recall during drills or real events.  
+
+**Module 1.26: Small-Group Resource Sharing Prep**  
+Organize digital or printed summaries of Phase 0-1 learnings for voluntary future sharing.  
+
+**Module 1.27: Cardio Intervals with Worship**  
+Alternate high-intensity intervals with worship music or psalms, building endurance as spiritual practice.  
+
+**Module 1.28: Soil Amendment and Composting Mastery**  
+Refine garden soil health techniques, turning labor into meditative fitness and self-sufficiency.  
+
+**Module 1.29: Curated News Summary Creation**  
+Synthesize weekly intelligence notes into concise, faith-filtered updates for personal reference.  
+
+**Module 1.30: Light Partner-Drill Simulation (Solo Visualization)**  
+Mentally rehearse controlled partner scenarios alone, preparing safely for Phase 2 testing.  
+
+**Module 1.31: Financial Goal Setting for Self-Defense Tools**  
+Set specific savings targets for protective or training equipment, tied to overall viability.  
+
+**Module 1.32: Personal Knowledge Base Refinement**  
+Organize all journals into a simple open-source-style personal wiki, ready for selective community use later.  
+
+**Module 1.33: Daily Adoration Integrated with Drills**  
+Perform every solo session with explicit Trinitarian adoration, ensuring spiritual primacy.  
+
+**Module 1.34: Advanced First-Aid Skill Drills**  
+Practice bandaging and splinting on self or dummies, reinforcing Phase 0 kits under movement.  
+
+**Module 1.35: Character Reflection on Service Readiness**  
+Weekly examen focused on readiness to help others without pride, preparing Phase 3 outreach.  
+
+**Module 1.36: Tool Maintenance and Safety Drills**  
+Regularly maintain garden and training tools safely, building practical proficiency.  
+
+**Module 1.37: Fasting Integrated with Training**  
+Occasional fasted light drills to build spiritual and physical resilience.  
+
+**Module 1.38: Vision Review and Adjustment**  
+Monthly review of personal progress against the protective tree vision.  
+
+**Module 1.39: Gratitude for Incremental Mastery**  
+Daily thanksgiving for Phase 1 gains, recentering on God’s grace.  
+
+**Module 1.40: Phase 1 Capstone Commitment**  
+Conclude with prayer committing solo mastery to future community service, bridging to Phase 2 validation.  
 
 ---
 
-## Phase 0: Foundation & Ignition (2026–Late 2028) {#phase-0}
-**Age 66–69**  
+## Phase 2: Practical Testing and Validation with Real Conditions
 
-Spiritual foundation first: deepen daily imitation of Christ through prayer, wrestling discipline, and voluntary simplicity. Refactor current life into travel-ready form — health protocols, capital stewardship, and Estonian e-residency secured.  
+**Module 2.1: Simulated Real-World Scenario Drills**  
+Run timed solo or low-partner scenarios incorporating Phase 1 skills under mild stress (e.g., fatigue, weather), validating effectiveness and linking back to spiritual centering from Phase 0.  
 
-Evolve existing GitHub repositories (AncientGuy/PKM → active PKE systems, Topic Delver agents, BRUNOSolutions workflows, HROSdev resilience) into a portable, offline-first agentic co-pilot. This tool gathers primary signals only — never news media — to identify open-source collaborators and investment opportunities in citizen-scale defense and knowledge tools.  
+**Module 2.2: Light Collaboration with Local LEOs for Feedback**  
+Seek voluntary, informal observation from law-enforcement contacts on citizen drills, testing practicality while maintaining open-source ethos and feeding insights into Module 2.22 ethical reviews.  
 
-Quiet virtual reconnaissance of Baltic, Ukrainian, Georgian, and Central Asian communities. Prototype minimalist, open-source modules that any citizen can use for unmediated knowledge engineering and practical readiness.  
+**Module 2.3: Stress-Test Gardening Under Time Pressure**  
+Perform garden maintenance drills while simulating urgent conditions, reinforcing physical fitness and food security as real-risk mitigators.  
 
-**Outcome**: Depart in late 2028 as a self-sustaining servant, carrying only what serves the soul and others.  
-[Back to TOC](#table-of-contents) | [See how this builds forward](#progression)
+**Module 2.4: Health Metrics Under Load Testing**  
+Conduct fitness tests (e.g., timed circuits) while monitoring vitals, addressing injury or disease risks identified earlier and documenting for intelligence sharing.  
+
+**Module 2.5: Live-Fire or Functional Weapon Validation (Range Safety)**  
+Safe, legal range sessions focused on accuracy and control, always secondary to unarmed foundations and integrated with prayer for responsible stewardship.  
+
+**Module 2.6: Debate and Record Ethical Case Studies**  
+Analyze recorded scenarios from drills with biblical principles, preparing principled responses for community teaching in Phase 3.  
+
+**Module 2.7: Intelligence Validation Through Local Verification**  
+Cross-check gathered news against direct observation or trusted sources, refining accuracy before broader sharing.  
+
+**Module 2.8: Professional Skill Application in Community Contexts**  
+Test new professional abilities (e.g., teaching a short workshop) to build credibility and financial viability for service.  
+
+**Module 2.9: Recovery Protocols Under Real Fatigue**  
+Apply Phase 1 recovery methods after demanding sessions, proving resilience against injury and burnout.  
+
+**Module 2.10: Partnered Light Grappling Sessions**  
+Controlled, consensual mat work with trusted individuals to validate solo drills, always voluntary and faith-centered.  
+
+**Module 2.11: Expanded News Curation for Small Networks**  
+Create and test short intelligence summaries for a few trusted contacts, practicing safe sharing.  
+
+**Module 2.12: Endurance Events with Prayer**  
+Participate in local ruck marches or runs while maintaining spiritual focus, testing holistic readiness.  
+
+**Module 2.13: Integrated Defense Drills with Tools**  
+Combine unarmed and basic tool use in scenario testing, always prioritizing de-escalation and Phase 0 nonviolence study.  
+
+**Module 2.14: Food Security Stress Tests**  
+Simulate short supply disruptions using stored garden produce, validating self-reliance practices.  
+
+**Module 2.15: Flow Drills Under Variable Conditions**  
+Perform wrestling flows outdoors or in non-ideal settings, building adaptability.  
+
+**Module 2.16: Quarterly Comprehensive Health Review**  
+Compare metrics across phases with professional input if needed, ensuring sustained capability.  
+
+**Module 2.17: Landscaping Projects with Real-World Constraints**  
+Complete larger edible landscaping tasks under time or resource limits, modeling practical service.  
+
+**Module 2.18: Power and Speed Validation Drills**  
+Measure striking or movement improvements through objective tests, documenting progress.  
+
+**Module 2.19: Financial Resilience Exercises**  
+Test budget under simulated economic stress, refining viability for long-term defense.  
+
+**Module 2.20: De-Escalation Role-Play with Feedback**  
+Practice with trusted peers, incorporating LEO insights where appropriate.  
+
+**Module 2.21: Advanced Proprioception in Dynamic Settings**  
+Balance and movement drills in varied terrain, proving real-condition utility.  
+
+**Module 2.22: Formal Ethical Review Sessions**  
+Convene small, voluntary discussions on defense principles post-testing.  
+
+**Module 2.23: Sleep and Recovery in Field Conditions**  
+Test habits during overnight or multi-day drills.  
+
+**Module 2.24: Updated Area Intelligence Mapping**  
+Incorporate new observations from testing into maps.  
+
+**Module 2.25: Scripture Recall Under Stress**  
+Practice verse recall during physically demanding sessions.  
+
+**Module 2.26: Prep Shareable Training Outlines**  
+Compile tested modules into simple guides for future community use.  
+
+**Module 2.27: Integrated Cardio-Martial Events**  
+Combine running intervals with striking or grappling drills.  
+
+**Module 2.28: Garden Yield and Preservation Testing**  
+Harvest and preserve under realistic conditions to validate self-sufficiency.  
+
+**Module 2.29: Intelligence Sharing Dry-Runs**  
+Practice disseminating curated updates safely and helpfully.  
+
+**Module 2.30: Scenario Validation with Variable Partners**  
+Test adaptability with different trusted individuals.  
+
+**Module 2.31: Tool and Equipment Durability Tests**  
+Evaluate gear performance in real use.  
+
+**Module 2.32: Personal Wiki Updates from Testing**  
+Refine knowledge base with validated lessons.  
+
+**Module 2.33: Trinitarian Prayer in Action**  
+Maintain adoration focus throughout all validation sessions.  
+
+**Module 2.34: Advanced First-Aid Scenario Drills**  
+Simulate injury response under stress.  
+
+**Module 2.35: Service Readiness Self-Evaluation**  
+Assess ability to help others post-testing.  
+
+**Module 2.36: Maintenance Protocols Validation**  
+Prove long-term care routines for tools and gardens.  
+
+**Module 2.37: Disciplined Fasting During Training**  
+Test resilience with combined spiritual and physical stress.  
+
+**Module 2.38: Mid-Journey Vision Realignment**  
+Review progress against protective community goals.  
+
+**Module 2.39: Gratitude Journal for Validated Growth**  
+Record thanks for proven capabilities.  
+
+**Module 2.40: Phase 2 Capstone Validation Prayer**  
+Conclude with prayer committing tested skills to Phase 3 community extension.  
 
 ---
 
-## Phase 1: Baltic Beacon (Late 2028–2035) {#phase-1}
-**Age 69–76**  
+## Phase 3: Community Adaptation and Extension
 
-Base in Estonia (Tallinn/Riga/Vilnius) using e-residency as digital passport. Serve local open-source communities by hosting mats-over-TVs wrestling sessions inside tech hubs and co-developing lightweight PKE tools that empower citizens to maintain their own intelligence without central or media filters.  
+**Module 3.1: Voluntary One-on-One Spiritual Mentoring**  
+Offer to walk a neighbor through Phase 0 adoration practices, building relationships through shared faith and helping launch their personal journey.  
 
-Agentic co-pilot surfaces fellow practical developers working on resilient knowledge systems and citizen-defense modules. Invest modestly in the brightest emerging companies that mirror distributed strength (Anduril-style agility, Palantir-grade clarity, Ukrainian drone innovation).  
+**Module 3.2: Group Solo-Drill Workshops (Voluntary)**  
+Host optional sessions teaching Phase 1 striking and mobility, adapting modules to participants’ needs while modeling service.  
 
-Spiritual rhythm: daily wrestling as prayer-in-motion; mentor young engineers in voluntary service and minimalist living.  
-**Builds directly on Phase 0** by turning virtual scouting into lived relationships.  
+**Module 3.3: Community Garden Collaboration Projects**  
+Invite neighbors to co-create edible landscaping, fostering relationships and collective food security.  
 
-**Legacy output**: First network of open-source, agentified citizen-readiness toolkits rooted in faith and physical discipline.  
-[Back to TOC](#table-of-contents) | [See how this builds forward](#progression)
+**Module 3.4: Shared Fitness Accountability Circles**  
+Form small voluntary groups for mutual encouragement on health metrics, extending Phase 2 testing benefits.  
+
+**Module 3.5: Adapted Grappling Intro for Beginners**  
+Teach safe, basic mat skills to interested community members, always emphasizing consent and spiritual foundation.  
+
+**Module 3.6: Nutrition and Garden Sharing Events**  
+Demonstrate meal prep from community plots, addressing diet risks collectively.  
+
+**Module 3.7: Neighborhood Awareness Walks Together**  
+Lead gentle prayer walks highlighting risks and opportunities, building intelligence as a group.  
+
+**Module 3.8: Professional Skill-Sharing Sessions**  
+Offer short teachings on financial or career topics drawn from personal development.  
+
+**Module 3.9: Injury Prevention Teaching Modules**  
+Share Phase 0-2 recovery knowledge in practical workshops.  
+
+**Module 3.10: Ethical Self-Defense Discussion Groups**  
+Facilitate voluntary conversations on faith and defense using tested case studies.  
+
+**Module 3.11: Local Intelligence Update Circles**  
+Curate and share verified news summaries in safe, small settings.  
+
+**Module 3.12: Community Endurance Events**  
+Organize optional group rucks or runs with prayer focus.  
+
+**Module 3.13: Safe Tool-Use Demonstrations**  
+Teach responsible basic weapon or tool handling to those ready.  
+
+**Module 3.14: Home Preservation Skill Shares**  
+Host workshops on food storage using collective gardens.  
+
+**Module 3.15: Mat-Based Community Flow Practice**  
+Offer light, voluntary flow sessions for mutual improvement.  
+
+**Module 3.16: Group Health Check-In Support**  
+Provide encouragement and basic tracking guidance to participants.  
+
+**Module 3.17: Larger Landscaping Service Projects**  
+Lead volunteer teams to improve neighbors’ edible landscapes.  
+
+**Module 3.18: Striking Technique Sharing Days**  
+Demonstrate and coach Phase 1-2 striking safely.  
+
+**Module 3.19: Financial Self-Reliance Workshops**  
+Teach budgeting and viability strategies to empower others.  
+
+**Module 3.20: De-Escalation Role-Play Groups**  
+Practice peacemaking skills together in supportive settings.  
+
+**Module 3.21: Dynamic Balance Training Sessions**  
+Share advanced proprioception drills with community.  
+
+**Module 3.22: Joint Ethical Review Gatherings**  
+Discuss defense principles as a growing network.  
+
+**Module 3.23: Recovery and Rest Emphasis Teaching**  
+Highlight importance of sleep and recovery for all.  
+
+**Module 3.24: Community Mapping Initiatives**  
+Collaborate on shared area awareness resources.  
+
+**Module 3.25: Scripture Memory Challenges**  
+Encourage group memorization for mutual strength.  
+
+**Module 3.26: Open-Source Module Adaptation**  
+Help neighbors customize earlier modules for their contexts.  
+
+**Module 3.27: Integrated Cardio Events**  
+Host combined fitness and faith gatherings.  
+
+**Module 3.28: Yield-Sharing and Preservation Days**  
+Distribute and teach preservation from community gardens.  
+
+**Module 3.29: Regular Intelligence Briefs**  
+Provide helpful, curated updates to local network.  
+
+**Module 3.30: Safe Partner-Drill Intro Sessions**  
+Facilitate controlled practice for those progressing.  
+
+**Module 3.31: Tool and Gear Loan/Sharing System**  
+Establish voluntary resource pools for training.  
+
+**Module 3.32: Personal Wiki Community Contributions**  
+Encourage others to add tested insights safely.  
+
+**Module 3.33: Trinitarian Focus in Group Prayer**  
+Anchor every gathering in adoration of the Holy Trinity.  
+
+**Module 3.34: First-Aid Community Training**  
+Teach practical response skills broadly.  
+
+**Module 3.35: Service Opportunity Identification**  
+Help match individuals’ strengths to community needs.  
+
+**Module 3.36: Ongoing Maintenance Clinics**  
+Offer sessions on tool and garden care.  
+
+**Module 3.37: Group Fasting and Prayer Days**  
+Invite participation in disciplined spiritual practice.  
+
+**Module 3.38: Local Network Vision Casting**  
+Review collective progress and future protection.  
+
+**Module 3.39: Gratitude Circles for Shared Growth**  
+Celebrate communal achievements in faith and capability.  
+
+**Module 3.40: Phase 3 Capstone Service Commitment**  
+Pray together committing the growing network to Phase 4 regional extension.  
 
 ---
 
-## Phase 2: Black Sea Frontier (2035–2042) {#phase-2}
-**Age 76–83**  
+## Phase 4: Regional Scaling and Intelligence Networks
 
-Transition to post-war Ukraine and Georgia. Serve alongside local innovators who blend drone/FPV technology with agentic AI that assists — never replaces — human operators. Co-create open-source “operator PKE” toolkits that fuse wrestling-based readiness tracking with practical defense systems.  
+**Module 4.1: Regional Spiritual Retreats**  
+Organize voluntary multi-community gatherings centered on Trinitarian adoration and Phase 0 foundations, strengthening the spiritual canopy across regions.  
 
-Continue daily training and spiritual service: establish community dojos that replace sedentary culture with disciplined strength. Agentic layer identifies high-signal collaborators already building personal knowledge communities. Invest in the most promising local founders advancing distributed peace.  
+**Module 4.2: Scaled Martial Arts Instructor Training**  
+Train committed Phase 3 graduates to teach solo drills regionally, maintaining open-source standards.  
 
-**Builds on Phase 1** by stress-testing Baltic-forged tools in real resilience environments, proving that empowered citizens need no corrupt central control.  
-[Back to TOC](#table-of-contents) | [See how this builds forward](#progression)
+**Module 4.3: Inter-Community Garden Networks**  
+Connect local edible landscaping projects into regional food-resilience webs.  
 
----
+**Module 4.4: Regional Fitness Challenge Circuits**  
+Launch voluntary large-scale events testing cumulative physical mastery.  
 
-## Phase 3: Central Asian Traverse (2042–2050) {#phase-3}
-**Age 83–91**  
+**Module 4.5: Advanced Grappling Seminars**  
+Host safe, progressive sessions drawing on all prior phases.  
 
-Progressive eastward movement through former Soviet republics (Kazakhstan, Uzbekistan, Kyrgyzstan, etc.). Adapt and serve by exchanging wrestling knowledge with indigenous traditions while refactoring PKE and defense modules for nomadic, resource-scarce settings.  
+**Module 4.6: Regional Nutrition and Preservation Exchanges**  
+Facilitate knowledge and produce sharing across areas.  
 
-Agentic co-pilot runs fully offline, surfacing local open-sourcists who value edge-computing and personal knowledge sovereignty. Seed micro-investments and open-source contributions that empower citizens rather than states.  
+**Module 4.7: Coordinated Awareness and Prayer Initiatives**  
+Lead larger-scale prayer walks and intelligence mapping projects.  
 
-Spiritual focus remains primary: imitate Christ through humble service, daily mat training, and the quiet witness of voluntary simplicity.  
-**Builds on Phase 2** by carrying proven Black Sea patterns deeper into the steppes, expanding the living network of faith-rooted, distributed strength.  
-[Back to TOC](#table-of-contents) | [See how this builds forward](#progression)
+**Module 4.8: Professional Development Summits**  
+Bring together citizens for skill-sharing and financial viability workshops.  
 
----
+**Module 4.9: Injury-Prevention and Recovery Networks**  
+Establish support systems for sustained health across regions.  
 
-## Phase 4: Mongolian Culmination & Legacy (2050–2058+) {#phase-4}
-**Age 91–94+**  
+**Module 4.10: Distributed Ethical Defense Forums**  
+Host virtual or in-person discussions refining principles from earlier testing.  
 
-Arrival in Mongolia — the deliberate terminus. Immerse in Bökh (traditional Mongolian wrestling) and sumo as the ultimate expression of nomadic discipline and voluntary order. Serve the final community by establishing mobile rangeland academies that fuse lifelong wrestling practice with the complete open-source PKE and defense legacy.  
+**Module 4.11: Regional Intelligence Hub (Voluntary)**  
+Curate and distribute verified news and threat updates via open channels.  
 
-Release the entire 30-year body of work — training protocols, agentic blueprints, investment theses, spiritual reflections — under a minimalist, voluntary license. Mentor the next generation of wrestlers, engineers, and disciples.  
+**Module 4.12: Multi-Day Regional Endurance Pilgrimages**  
+Combine physical challenge with spiritual reflection and service.  
 
-Spiritual closure: a life that has trained, served, and imitated Christ from the Baltic shores to the Mongolian steppes.  
-**Builds on all prior phases** as the living capstone: the full journey becomes the proof that one old engineer, walking voluntarily, can help distribute strength and peace.  
-[Back to TOC](#table-of-contents) | [See how this builds forward](#progression)
+**Module 4.13: Responsible Tool and Defense Scaling**  
+Provide advanced, legal guidance for those who have mastered foundations.  
 
----
+**Module 4.14: Regional Food Security Coalitions**  
+Build collaborative preservation and storage networks.  
 
-## Overarching Principles {#principles}
-- **Primary Objective**: Care of the soul through imitation of Jesus Christ — service, simplicity, and daily discipline.  
-- **Agentic AI**: Personal, open-source co-pilot only — gathers primary data, plans routes, and connects with fellow open-sourcists. Never for expertise or media consumption.  
-- **Wrestling Lifestyle**: Mats and heavy bags everywhere; physical readiness as spiritual practice.  
-- **Defense & Peace**: Practical nonviolence through citizen empowerment, open-source technology, and minimalist governance.  
-- **Financial Model**: Self-sustaining via practical inventions and equity in the brightest citizen-focused companies.  
-- **Ethos**: Live voluntarily. Refactor, simplify, open-source. Trust only primary signals and direct human relationships.  
+**Module 4.15: Advanced Flow and Scenario Training**  
+Offer progressive, distributed practice opportunities.  
 
----
+**Module 4.16: Cross-Community Health Metric Sharing**  
+Encourage anonymous, aggregated data for collective improvement.  
 
-## How This Journey Builds {#progression}
-Each phase is deliberately cumulative:  
-- [Phase 0](#phase-0) forges the spiritual and technical foundation.  
-- [Phase 1](#phase-1) tests and shares it in high-trust Baltic environments.  
-- [Phase 2](#phase-2) proves it under real-world stress in Ukraine/Georgia.  
-- [Phase 3](#phase-3) adapts and expands it across the steppes.  
-- [Phase 4](#phase-4) releases the full legacy in Mongolia.  
+**Module 4.17: Large-Scale Landscaping Service Missions**  
+Coordinate volunteer teams for regional stewardship projects.  
 
-The arc is one continuous pilgrimage: soul first, service always, strength distributed.  
+**Module 4.18: Integrated Striking and Movement Camps**  
+Host intensive yet faith-centered training events.  
 
----
+**Module 4.19: Sustainable Financial Models for Networks**  
+Explore open-source inventions and equity to fund citizen efforts.  
+
+**Module 4.20: Advanced De-Escalation and Peacemaking**  
+Refine and teach nonviolent strategies at scale.  
+
+**Module 4.21: Dynamic Regional Balance and Mobility**  
+Share cutting-edge proprioception methods across groups.  
+
+**Module 4.22: Ongoing Ethical Oversight Councils**  
+Maintain voluntary review bodies for network integrity.  
+
+**Module 4.23: Recovery and Longevity Programs**  
+Promote lifelong health practices regionally.  
+
+**Module 4.24: Comprehensive Regional Mapping**  
+Develop shared, privacy-respecting intelligence resources.  
+
+**Module 4.25: Scripture and Virtue Mastery Tracks**  
+Create progressive memorization and study pathways.  
+
+**Module 4.26: Open-Source Module Repository Maintenance**  
+Continuously update and distribute all prior modules.  
+
+**Module 4.27: Large Cardio-Faith Integration Events**  
+Host regional runs, rucks, and worship gatherings.  
+
+**Module 4.28: Yield Distribution and Preservation Hubs**  
+Establish regional centers for food security.  
+
+**Module 4.29: Secure Intelligence Collaboration Platforms**  
+Develop safe, decentralized sharing mechanisms.  
+
+**Module 4.30: Advanced Partner and Scenario Networks**  
+Facilitate trusted, scalable practice opportunities.  
+
+**Module 4.31: Equipment and Resource Cooperatives**  
+Build voluntary regional tool and gear sharing.  
+
+**Module 4.32: Living Knowledge-Base Evolution**  
+Maintain and expand the collective personal-knowledge engineering system.  
+
+**Module 4.33: Perpetual Trinitarian Adoration Practices**  
+Embed adoration in every regional activity.  
+
+**Module 4.34: Advanced First-Aid and Medical Networks**  
+Scale life-saving skill distribution.  
+
+**Module 4.35: Service and Mentorship Matching**  
+Connect experienced citizens with those beginning their journeys.  
+
+**Module 4.36: Long-Term Maintenance Academies**  
+Teach sustainable care of tools, gardens, and bodies.  
+
+**Module 4.37: Disciplined Regional Fasting Cycles**  
+Coordinate voluntary spiritual and physical disciplines.  
+
+**Module 4.38: Vision and Legacy Review Assemblies**  
+Regularly assess the expanding protective tree.  
+
+**Module 4.39: Celebration of Distributed Citizenship**  
+Gather to give thanks for the community-wide transformation.  
+
+**Module 4.40: Phase 4 Capstone Pilgrimage Prayer**  
+Conclude with a regional commitment to continue the pilgrimage of faith, service, and distributed defense, ensuring the tree of modules perpetually covers and protects the community.  
 
 ## Contact & Collaboration {#contact}
-Open to conversation with anyone building practical open-source Personal Knowledge Engineering, wrestling-as-lifestyle communities, or citizen-scale defense tools.  
 
-- GitHub: https://github.com/MarkBruns  
-- X: @MarkBruns  
-- Email: (possibly available upon request; depends upon me being able to discern intent)  
+*(https://github.com/MarkBruns/Adopt-A-DOGE)*
 
-I travel light and listen carefully. If our paths align in service to Christ and the empowerment of free people, let us meet — preferably on the mat.  
+Open to conversation with anyone building practical open-source Personal Knowledge Engineering, wrestling-as-lifestyle communities, or citizen-scale defense tools ... *OPEN* does not mean that it's okay to waste my time -- if you want to discuss things, it's probably best to have something written out [with the assitance of AI, if you want] but don't waste my time by being unprepared.
+
+If you lack a sense of humor, I will likely ignore you, so don't take it personally if I offend you. I have found that I NEED to offend people in order to figure out what they are about. Most people are simply not worth my time — and I am not going to be worth their time, because our paths will never align. If you are not offended by me, it's up to you to get over yourself. The world cannot work if we expect other people to be NICE to us... so let's cut out that bullshit!
+
+I am supremely grateful for every moment of life my Creator has given me. Gratitude to my Creator demands that I prioritize valuing my own time as I wait for it to be demonstrated that I should value someone else's intrusion on my time.
+
+I live SIMPLY, remove attachments, and ditch any and all forms of addiction to comfort. I give things away to those who can best use them. I intend never to need anyone. I am not good enough at paying attention to the Lord, so I generally refuse to pay attention to people or what is important to them. If our paths align in service to Christ and the empowerment of free people, let us meet — preferably in the garden, or maybe in the gym or on the mat.
 
 *“Train. Be able. Live voluntarily.”*  
-— Mark Bruns  
+
 
 --- 
 
