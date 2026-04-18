@@ -26,7 +26,7 @@ Freedom comes from exercising what freedom we have and working at engineering th
 
 Engineering reliability is about taking out the failure modes -- that means optimizing self-reliance and using each failure to learn. 
 
-The money spent on classrooms and educational indoctrination systems inculcating victimology and suicidal empathy is accelerating our decline. 
+Money spent on classroom-based educational indoctrination systems inculcating suicidal empathy is accelerating decline into the victimology of MAID states. 
 
 The DIVISION taught in classrooms or academia is EVIL. 
 
